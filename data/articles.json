@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Ein netzwerkendes Palästina: Heilung, Resilienz und Frieden",
+    "title_en": "A Networking Palestine: Healing, Resilience, and Peace ",
+    "author": "Khalid Shibib",
+    "authordescription":"Dr. Khalid Shibib ist ein deutsch-palästinensischer Freiberufler im Bereich Gesundheitsversorgung in Krisensituationen und Neurochirurg, der 1947 in Palästina geboren wurde. Seine ersten Jahrzehnte verbrachte er hauptsächlich mit Ausbildung, Spezialisierung und Forschung im Irak und in Deutschland sowie mit klinischer Arbeit, vor allem in Krankenhäusern des Gesundheitsministeriums im Irak und in anderen arabischen Ländern im Rahmen der Palästinensischen Rotkreuzgesellschaft (PRCS). Von 1992 bis zu seiner Pensionierung im Jahr 2009 und danach im Rahmen zahlreicher Kurzeinsätze war er hauptsächlich in der Notfallabteilung am Hauptsitz der Weltgesundheitsorganisation in Genf tätig und bereiste Länder in verschiedenen geografischen Regionen, die von Krisen betroffen waren. Diese berufliche Doppelrolle spiegelt sich in seinen Veröffentlichungen in den Bereichen Neurowissenschaften, öffentliche Gesundheit und Sozialpolitik wider. Darüber hinaus war er Mitautor einer Reihe wissenschaftlicher Artikel und veröffentlichte einen Gedichtband sowie einen Roman.",
+    "authordescription_en":"Dr Khalid Shibib is a German Palestinian freelancer for health in crises and neurosurgeon who was born in 1947 in Palestine. His first decades were mainly spent in education-specialization and research in Iraq and Germany, clinical work, mainly in MOH hospitals in Iraq and other Arab countries with the Palestine Red Crescent Society (PRCS). From 1992 till retirement in 2009 and thereafter in many short missions, he worked mainly at and for the emergency department at the World Health Organisation Headquarters in Geneva, covering and visiting countries affected by crises in various geographic regions.  This professional duality is reflected in his publications in neuroscience, public health and socio-political fields. He also co-authored a number of scientific articles and published a poetry book and a novel.",
+    "lead": "Ausgehend vom Begriff des sumūd entwickelt Dr. Khaled Shibib eine Analyse der wachsenden epistemischen Spaltung innerhalb der palästinensischen Gesellschaft.",
+    "lead_en": "Taking the concept of sumūd as his starting point, Dr Khaled Shibib develops an analysis of the growing epistemic divide within Palestinian society.",
+    "image": "bild3.jpg",
+    "text": "shibib_3.txt",
+    "text_en": "shibib_3_en.txt"
+  },  
+  {
+    "id": 2,
+    "title": "Scholastizid in Gaza: Der Krieg gegen das Wissen jenseits der humanitären Krise",
+    "title_en": "Scholasticide in Gaza: The War on Knowledge Beyond Humanitarian Crisis",
+    "author": "Mohammedwesam Amer",
+    "authordescription": "Dr. Mohammedwesam Amer ist CARA-Stipendiat (Council for At-Risk Academics) und Gastprofessor an der Universität Cambridge. Dr. Amer promovierte 2015 an der Universität Hamburg. Von 2017 bis 2020 war er Marie-Curie-Stipendiat an der Newcastle University sowie Fulbright-Stipendiat und Forscher an der Harvard University. Von 2020 bis 2025 war Dr. Amer Dekan der Fakultät für Kommunikation und Sprachen an der Universität Gaza. Seine Lehr- und Forschungsschwerpunkte liegen in den Bereichen politische Kommunikation, gewalttätige Sprache, Kriegsführung und zeitgenössische Geopolitik im Nahen Osten.",
+    "authordescription_en": "Dr Mohammedwesam Amer is a CARA (the Council for At-Risk Academics) fellow and visiting professor at the University of Cambridge. Dr. Amer obtained his Ph.D. from Hamburg University in 2015. He was a Marie Curie fellow at Newcastle University from 2017 to 2020 and a Fulbright scholar and researcher at Harvard University. Between 2020 and 2025, Dr Amer was Dean of the Faculty of Communication and Languages at Gaza University. His interests in teaching and research center around political communication, violent language, warfare, and contemporary geopolitics in the Middle East.",
+    "lead": "Amer beschreibt die systematische Zerstörung von Universitäten, Bibliotheken und Archiven in Gaza als das, was er in Anlehnung an Boaventura de Sousa Santos einen „Epistemizid“ nennt.",
+    "lead_en": "Amer describes the systematic destruction of universities, libraries and archives in Gaza as what he terms, following Boaventura de Sousa Santos, ‘epistemicide’.",
+    "image": "bild2.jpg",
+    "text": "amer_2.txt",
+    "text_en": "amer_2_en.txt"
+  },
+  {
+    "id": 3,
+    "title": "Die Bedeutung der Postkolonialen Studiendebatte in der Palästinafrage",
+    "title_en": "The Significance of the Postcolonial Studies Debate in the Palestinian Question",
+    "author": "Tarkan Tek",
+    "authordescription":"Tarkan Tek ist freier Wissenschaftler und Aktivist und arbeitet in Wien.",
+    "authordescription_en":"Tarkan Tek is an independent researcher and activist based in Vienna.",
+    "lead": "Tarkan Teks Beitrag zeigt, dass der Kampf ums Wissen nicht nur in Gaza, sondern auch in den Seminarräumen und Feuilletons des deutschsprachigen Raums ausgetragen wird.",
+    "lead_en": "Tarkan Tek’s contribution demonstrates that the struggle over knowledge is being waged not only in Gaza, but also in seminar rooms and the arts and culture sections of the German-speaking world.",
+    "image": "bild8.jpg",
+    "text": "tek_5.txt",
+    "text_en": "tek_5_en.txt"
+  },
+  {
+    "id": 4,
+    "title": "Widerstand und Terrorismus in der westlichen Wahrnehmung",
+    "title_en": "Resistance and Terrorism in the Western Perception of Palestine",
+    "author": "Hubert Krammer",
+    "authordescription": "Hubert Krammer studierte Politikwissenschaften, ist in kulturellen, politischen und sozialen Projekten aktiv. Er ist Autor des 2010 erschienenen Buchs “Jenseits der Mythen”, das sich mit dem historischen  Naheverhältnis zwischen Zionismus und dem politisch äußersten rechten Rand auseinandersetzt.",
+    "authordescription_en": "Hubert Krammer studied political science and is active in cultural, political, and social projects. He is the author of the book “Beyond the Myths”, published in 2010, which examines the historical close relationship between Zionism and the political far right.",
+    "lead": "Die Grauzone zwischen Widerstand und Terrorismus in der westlichen Wahrnehmung von Palästina - am Beispiel der zionistischen Terrororganisationen Hagana, Irgun und Lehi.",
+    "lead_en": "The grey area between resistance and terrorism in the Western perception of Palestine – using the example of the Zionist terrorist organisations Hagana, Irgun and Lehi.",
+    "image": "bild1.jpg",
+    "text": "krammer_1.txt",
+    "text_en": "krammer_1_en.txt"
+  },
+  {
+    "id": 5,
+    "title": "Wer hat Angst vor der Wahrheit?",
+    "title_en": "Who is afraid of the truth?",
+    "author": "Salman Abu Sitta",
+    "authordescription":"Dr. Salman H. Abu Sitta ist ein palästinensischer Wissenschaftler, der vor allem für seine wegweisende Arbeit an der Ausarbeitung eines praktischen Rückkehrplans für palästinensische Flüchtlinge sowie für die Dokumentation des palästinensischen Landes und seiner Bevölkerung durch seine umfassende Kartierung Palästinas bekannt ist. Er ist Gründer und Präsident der Palestine Land Society (PLS), einer vom UN-CEIRPP akkreditierten Nichtregierungsorganisation. Seine Archivsammlung und seine Forschungsunterlagen aus über 40 Jahren bilden das Rückgrat des Palestine Land Studies Center (PLSC), das er an der American University of Beirut (AUB) gegründet hat.",
+    "authordescription_en":"Dr Salman H. Abu Sitta is a Palestinian academic best known for his crucial work formulating a practical return plan for Palestinian refugees and documenting Palestine’s land and people through his extensive mapping of Palestine.  He is the Founder and President of the Palestine Land Society (PLS), NGO accredited by the UN CEIRPP.  His archival collection and working files of research over 40 years form the backbone of the Palestine Land Studies Center (PLSC) which he established at the American University of Beirut (AUB).",
+    "lead": "Ursprünglich als Redebeitrag für das Panel in Göttingen konzipiert, und hier in Transkription dokumentiert, zur Erinnerung an die Nakba, zum Recht auf Rückkehr, zur Zeugenschaft eines Mannes, der die Vertreibung seiner Familie aus Südpalästina selbst erlebt hat.",
+    "lead_en": "Originally conceived as a speech for the panel in Göttingen and based on the transcript, about the memory of the Nakba, the right of return, the testimony of a man who himself experienced his family’s expulsion from southern Palestine.",
+    "image": "bild6.jpg",
+    "text": "sitta_4.txt",
+    "text_en": "sitta_4_en.txt"
+  }
+]

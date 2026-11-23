@@ -1,0 +1,483 @@
+<h2 class="subtitle">Abstract</h2>
+
+This paper examines the historical, political, and epistemological dimensions of the Palestinian struggle through the concept of <i>sumūd</i>—steadfastness—as both a lived experience and a framework of resistance. Drawing on archival sources, postcolonial theory, and contemporary field research, it situates the ongoing conflict not as an isolated event but as part of a century-long structure of settler colonial domination and indigenous resilience. By tracing the continuities between colonial discourse, spatial control, and narrative power, the study highlights how Palestinians articulate identity, memory, and justice under conditions of occupation. The argument advances the notion that <i>sumūd</i> operates simultaneously as a material practice of endurance and as an epistemic counterpoint to hegemonic representations, thus reconfiguring the relationship between space, sovereignty, and knowledge production in Palestine.
+
+Whenever Palestinian unity or division is mentioned, the political divide between Hamas and Fatah is usually meant. However, another divide of strategic and, in the long run, more important and impactful dimension is affecting Palestinian unity: the growing epistemic divide resulting from the demographic and cultural dispersion of the Palestinian people, coupled with the fragmentation and weakness of their collective identity and reasoning system.
+
+As a result, the Palestinian national identity and collective reasoning system, developed over centuries in the ethnic, cultural, and religious conglomerate of the Levant/Bilad al-Sham, is now fragmented into—at least—nine sub-identities and communal reasoning systems. This demographic-epistemic divide, mainly following the Palestinian Nakba of 1948, carries the potential of generating further divisions in the decades to come.
+
+On the opposite side, the cultural-epistemic diversity resulting from decades-long interaction with non-Palestinian host environments is slowly trickling into the core of the Palestinian identity, providing additional cultural knowledge-resources. Cultural and epistemic healing, adaptation, and integration of migrants and invaders are the genius of Palestine across history. The process of restoring unity-in-diversity of Palestinianism would provide a space for the re-inclusion of Judaism into a new/old multi-confessional, multilingual Palestinian identity and reasoning system.
+
+This essay builds on a previous work on the evolution and epistemic units of Palestine’s reasoning and knowledge system (Shibib 2024). Though political, like any issue related to Palestine, it is not about discussing political solutions and scenarios for the current <i>status quo</i> in the Middle East.
+
+<h2 class="subtitle">I.Introduction</h2>
+
+The ongoing war in and on Gaza, and the publicly declared U.S.–Israeli plan to ethnically cleanse 2.4 million Palestinians from the Strip (Chao-Fong 2025), have revived collective Palestinian memories of massacres, destruction, and the depopulation of hundreds of villages and communities (cf. Palestine Land Society n.d.) during the 1948 Nakba.
+
+This essay highlights the genocide in Gaza as an extreme instance of how one of the nine globally dispersed Palestinian communities confronts annihilation (ICJ), relying almost entirely on its own local resources. To enable ethnic cleansing, Israel has systematically targeted Gaza’s infrastructure—including most residential buildings (Sullivan 2024), its environment (ReliefWeb 2024), economy (UNCTAD 2024), health system (ReliefWeb 2025), and educational institutions (Moaswes 2024). Despite the unconditional solidarity traditionally shown among Palestinians worldwide, Gaza is left to struggle largely on its own.
+
+While Israel, the United States, and much of the Western media continue to claim that the current war on Gaza began with Hamas’s attack on southern Israel on October 7, 2023—thereby disregarding or even negating the fact that the war in and on Palestine has persisted for more than a century (Khalidi 2020)—the historical and political reality of the past two decades tells a different story. Following Hamas’s takeover of Gaza in 2006–2007, Israel declared the territory “hostile,” justifying severe restrictions on movement, fuel, electricity, and other essential supplies. These measures transformed Gaza into what has been described as the world’s “largest open-air prison” (Hovering 2018), where roughly 2.4 million Palestinians, the majority of them refugees, reside. Since then, Gaza has become a regular recipient of international humanitarian assistance (UNRWA 2022), as Israel and Hamas have engaged in recurrent cycles of violence culminating in large-scale wars in 2008, 2009, and 2014. Between 2008 and 2014, 6,407 Palestinians and 308 Israelis were killed (The Wire 2023), and civilian infrastructure sustained massive destruction.
+
+Sustained by unconditional Western—political, media, military, and intelligence—support, the genocide in Gaza and the wider project of ethnic cleansing across Palestine continue unabated. While Jewish communities worldwide are divided, two-thirds of Israeli Jews reportedly oppose humanitarian aid to Gaza’s population (Breslawski and Koos 2025) and endorse the ongoing initiative of U.S. President Donald Trump (JPPI 2025) that seeks to forcibly expel Gaza’s Palestinians into Egypt, Jordan, and other states. Fewer than 3 percent of Israeli Jews consider this policy immoral (The Jerusalem Post 2025). Threats to deploy nuclear weapons have been voiced by both an Israeli minister (The Times of Israel 2023) and a U.S. senator (The New Arab 2024). Observers have compared the scale of destruction and death in Gaza to that of Hiroshima and Nagasaki (Youvan 2024) and to the British Air Force’s destruction of Dresden at the end of World War II (Arab News 2024). Others have drawn parallels between Gaza’s devastation and the suppression of the 1943 Warsaw Ghetto Uprising (Ahmed 2023).
+
+Israel’s ongoing genocidal campaign in Gaza crowns decades of escalating violence that may reveal a consistent Zionist <i>modus operandi</i>: a pursuit of an “ultimate solution” to the Palestinian question through total destruction and displacement.
+
+In the face of this multidimensional war crime, each of the eight other Palestinian population enclaves—having endured its own moments of catastrophe in the past—has expressed maximum solidarity, yet remains unable to provide significant direct aid to Gaza. Nevertheless, Palestinians persist in resistance and resilience throughout historic Palestine and across the global diaspora, inspiring widespread grassroots solidarity. Meanwhile, Israel continues to kill, destroy, and displace throughout the occupied Palestinian territories.
+
+To preserve and justify its unconditional support for Israel, the United States—together with its Western allies—has exerted pressure on international institutions, thereby undermining and fragmenting the post-World War II order that it once helped create, including UNESCO, the HRC, the ICJ, the ICC, UNRWA, and the WHO.
+
+On the demographic front, the Palestinian Central Bureau of Statistics (PCBS) estimated in 2017 that the population of the Occupied Palestinian Territories (West Bank and Gaza) was roughly 5 million, representing 37.7 percent of Palestinians worldwide. This figure is projected to reach 9.79 million by 2050 and 15.5 million by 2100 (United Nations 2015,  15). Extrapolated globally, the Palestinian population could exceed 40 million by 2100. Palestinians, known for their high educational attainment, rank among the best-educated refugee populations in the world (Irfan 2023). Seventy-seven years after the Nakba, more than 80 percent of Palestinians continue to live either in historic Palestine or in neighboring Arab countries.
+
+Despite Israel’s dominance, its decades-long occupation and control over historic Palestine, and the internal divisions among Palestinians, Israel has so far failed to decisively defeat the Palestinian people. Beyond Palestinian resilience and resistance, this impasse reflects the inherent impossibility of political Zionism’s ultimate objective: erasing Palestinian identity. In this sense, Palestinian endurance and achievements represent the mirror image of Zionism’s failures. The war in historic Palestine thus belongs to what Lawrence Freeedman (2025) has termed the category of “forever wars.”
+
+<h2 class="subtitle">II.Cultures, Narrative War, and Knowledge Systems</h2>
+
+<h3 class="subsubtitle">Cultures Generate Epistemes and Collective Knowledge Systems</h3>
+
+Throughout history, the dominant culture of any given community or people has provided the foundations for its collective reasoning, knowledge system, or “collective mind.” Culture encompasses narratives, myths, geography, religion, language, and material heritage—poetry, literature, folklore, cuisine, dress, embroidery, music, and dance. These elements are shared across generations through family life, education, and the media. As Muthukrishna (2016, 2) notes, “Our societies and social networks act as collective brains.”
+
+Michel Foucault defines <i>episteme</i> as “the totality of relations that can be discovered, for a given period, between the sciences when one analyses them at the level of discursive regularities” (Foucault 1972, 191–92). He further argues that “in any given culture and at any given moment, there is always only one ‘episteme’ that defines the conditions of possibility of knowledge, whether expressed in a theory or silently invested in a practice” (Foucault 1970, 168).
+
+In contrast, Mohammed Abed al-Jabri conceives of the Arab mind as comprising several knowledge systems (<i>niẓām maʿrifī</i>). For al-Jabri, the Arab mind is “the tool for thinking and generating knowledge for Arabs and is rooted in their very special and distinct Arab culture. This culture reflects the history of the Arabs, as well as their future aspirations, and at the same time the reasons for their current backwardness. The sum of the norms recognized in a particular historical period gives them an absolute value in that specific historical period” (al-Jabri 2017a, 13–14). He concludes that “other nations are endowed by their own cultures with distinct concepts of reason” (al-Jabri 2017a, 17).
+
+<h3 class="subsubtitle">Circulation Dynamics Within the Collective Mind</h3>
+
+Over time, cultural evolution alters the epistemic systems that govern collective reasoning. As Foucault observes, “Episteme is not a motionless figure; it is a constantly moving set of articulations, shifts, and coincidences that are established only to give rise to others” (Foucault 1972, 191).
+
+Centrifugal—or diverging—forces such as migration, disrupted ties to homelands, loss of mother tongues (Alba and Stowell 2007), acculturation, and exogamy tend to weaken identification with origin cultures, encouraging integration into host societies. Conversely, centripetal—or converging—forces work to preserve identity through land ownership, family and city solidarity, language, folklore, religion, and communal governance. Despite fragmentation, apartheid, and occupation, historic Palestine remains the geographic and symbolic center of these converging forces. Pivotal events such as the 1982 Lebanon War, the 1987 and 2000 Intifadas, and the current genocide in Gaza function as gravitational hubs around which Palestinian solidarity and resistance movements coalesce.
+
+In addition to these centripetal and centrifugal movements, Cordonnier and colleagues(2022) describe an “hourglass-like” circulation between a nation’s collective reasoning system (macro level) and the individual minds that compose it (micro level). This dynamic applies to multiple interrelated dimensions of collective cognition—perception (Bartashevich and Mostaghim 2021), consciousness (Elgin 1997; Cole 2023), identity (Brünker, Deitelhoff and Mirbabaie 2019; Mitova 2022), knowledge (Beim 2007), and intentionality (Schweikard and Schmid 2021).
+
+(insert Figure : Internal and external forces acting on the Collective Mind)
+
+While such interactions usually evolve slowly, sudden and intense collective events can trigger oscillations between micro- and macro-levels of consciousness, producing rapid transformations in collective knowledge systems. This <i>epistemic effervescence</i> parallels Émile Durkheim’s concept of “collective effervescence” in religious or social gatherings (Durkheim 1915, 218–19, 228).
+
+<h3 class="subsubtitle">A War of Narratives and Collective Reasoning in Historic Palestine</h3>
+
+For over a century, a persistent war of narratives has unfolded between political Zionism and Palestinianism. Three proposed “solutions” to the so-called Middle East conflict have repeatedly failed:
+
+<ol>
+
+    <li>Restoring pre-1948 Palestine and overcoming the Nakba,</li>
+    
+    <li>Achieving a Zionist victory through total displacement, and</li>
+    
+    <li>Implementing the international “two-state solution.”</li>
+
+</ol>
+
+This narrative conflict allows for no true compromise; at best, it produces temporary cease-fires before hostilities resume.
+
+Political Zionism originated not as a Jewish but as a Christian-Anglican ideology in seventeenth-century Britain, then the world’s pre-eminent imperial power, and spread from there to its American colonies. It manifests today in the unqualified support Israel receives from the United States and Europe—support that rarely defines the geographical or political limits of “Israel” itself (Kaim 2015). These may include, for example, Israel in 1948 borders, Israel and Palestinian Territory occupied by Israel, or biblical Grand Israel from the Nile to the Euphrates.
+
+Jewish political Zionism, a later and exclusively European movement, framed a religious-cultural claim that all Jews constitute a divinely chosen people entitled to Palestine (<i>Eretz Israel</i>). This ideology rests on several propositions:
+
+<ol>
+    
+    <li>The Jews are God’s chosen nation or ethnicity;</li>
+    
+    <li>God promised them the land of Palestine (Eretz Israel) exclusively;</li>
+    
+    <li>After two millennia of exile, they must “return” to this homeland; and</li>
+    
+    <li>During that exile, Palestine remained an “empty land,” awaiting its legitimate heirs.</li>
+
+</ol>
+
+This last proposition denies the existence and historic continuity of the Palestinian people, portraying them as transient “Arabs” without rooted presence or cultural contribution. The logic of exclusion is codified in legislation such as the 2018 Jewish Nation-State Law (The Knesset 2018) and in the ongoing denial of the Palestinian right of return (CIE n.d.).
+
+By contrast, <i>Palestinianism</i> grounds identity in an unbroken relationship to the land spanning more than four millennia (Masalha 2020), including Jewish components. The Palestinian mind has historically been multilayered, multireligious, adaptive, inclusive, and absorptive. Its epistemic flexibility stems from a deeply rooted intellectual structure that incorporates strata of various Palestinian city-states—Palestine’s dominant governance form throughout history—together with broader national, Levantine, and Arab layers (Shibib 2024, 5; see fig. 1).
+
+Furthermore, Shibib (2024, 2–14; fig. 4) conceptualizes the Palestinian mind as a Palestine-specific manifestation of the broader Arab mind identified by al-Jabri, encompassing three cognitive systems (<i>niẓām maʿrifī</i>) that together form both Arab theoretical and political reason.
+
+In Palestine, Judaism, Christianity, and Islam have long coexisted within a shared religious-cultural continuum, interrupted only briefly by historical upheavals. The majority of contemporary Palestinian Muslims are descendants of Palestinian Christians who themselves trace their lineage to earlier Judaic and indigenous traditions. Islamic tolerance, as reflected in its sacred texts, further reinforces this pluralistic continuity.
+
+Owing to its unique geostrategic position at the crossroads of continents and empires, Palestine historically functioned as a cultural crossroads and a “melting pot.” It integrated migrants and invaders alike, converting diverse <i>jus sanguinis</i> (right of blood) affiliations into a land-based <i>jus soli</i> (right of soil) identity. This absorptive capacity extended to Babylonians, Assyrians, Egyptians, Persians, Hittites, Nabataeans, Crusaders, and Arabs. In each period, Palestine adapted its linguistic and religious composition (Shibib 2021, 23), embodying a dynamic epistemic resilience that continues to shape its collective consciousness today.
+
+(insert Figure : Strata of the Pre-Nakba Arab Palestinian Mind)
+
+<h2 class="subtitle">III.Divisions, Transformations, Losses, and Gains</h2>
+
+<h3 class="subsubtitle">The Palestinian Nakba, Dispersal, and the Evolution of the Palestinian Epistemic System</h3>
+
+The <b>Palestinian Nakba of 1948</b> fragmented the Palestinian population into nine isolated demographic clusters, resulting in significant losses of critical epistemic components and reasoning systems.
+
+Figure 3: Palestine’s geopolitical and epistemic divisions, transformations, losses, and gains. Geographic divisions are represented differently; Jerusalem is considered separately from the West Bank.
+
+Beyond the collective physical and psychological trauma—including war, destruction, killings, ethnic cleansing, and loss of national identity documents—the Palestinian epistemic framework lost its continuity and cohesion. The cultural context that supported this reasoning system was disrupted, making universalistic cognitive regeneration impossible. Concurrently, Palestinian migrant communities began adopting elements from the cultures of dominant host societies, a process that continues to the present.
+
+Even prior to the Nakba, Palestine’s demographic composition was shifting. Jewish migrants from Eastern Europe began arriving around 1880, gradually increasing the proportion of Palestinian Jews, both Arabic- and non-Arabic-speaking, relative to other groups (Jewish Virtual Library n.d.). Simultaneously, Palestinian migration to Latin America, primarily by Christians, began and peaked in 1908, continuing through the British Mandate, during which maintaining ties with the homeland was constrained by British policies facilitating Jewish migration. This process led to the establishment of the largest Palestinian Christian community in Chile.
+
+While Jewish migration and the emergence of pre-state Jewish structures (Yishuv) contributed to the gradual erosion of Palestinian Arab-speaking Jewish identity in favor of political Zionism, the emigration of Christians weakened the Christian component of the Palestinian epistemic system. Additionally, some Palestinian Druze aligned with Zionist movements. These demographic and ideological shifts weakened historical multi-religious Palestinian identity and reasoning systems. Under these conditions, the Nakba further divided the remaining Palestinian majority, excluding Palestinian Jews and depleting Christian components, into isolated population islands.
+
+<h2 class="subtitle">IV.Forces and Processes Shaping the Palestinian Mind</h2>
+
+<h3 class="subsubtitle">Centripetal Collective Events</h3>
+
+The following events are termed centripetal because they fostered shared identity, reinforced social cohesion, or strengthened collective memory across the Palestinian population. They are collective because their effects extended broadly across communities and generations.
+
+<ul class="dashlist">
+
+    <li>
+        <h5>1750–1775: Zahir al-‘Umar</h5>
+        
+        Zahir al-‘Umar, a local Arab ruler in the Galilee during the Ottoman period, strengthened regional governance, facilitated trade networks, and defended local autonomy. His leadership reinforced political cohesion and economic stability, contributing to collective identity in northern Palestine (Joudah 2014).
+    </li>
+    
+    <li>
+        <h5>1799: Resistance to Napoleon in Akka</h5>
+        
+        The successful defense of Akka (Acre) against Napoleon’s forces united diverse Palestinian and Ottoman forces. This event served as a collective experience of military resilience and pride, enhancing social solidarity and a sense of shared destiny.
+    </li>
+    
+    <li>
+        <h5>1834: Peasant Revolt against Mohammed Ali</h5>
+        
+        Palestinian peasants rose against Egyptian conscription and taxation policies under Mohammed Ali. Although ultimately suppressed, the revolt fostered communal solidarity, shared political consciousness, and awareness of common social grievances (Safi 2008).
+    </li>
+    
+    <li>
+        <h5>Late 19th–early 20th century: Mass migration to Latin America</h5>
+        
+        Migration of predominantly Christian Palestinians created diaspora communities that maintained cultural cohesion abroad. This process reinforced collective identity by establishing networks of support, communal institutions, and continued connections with the homeland.
+    </li>
+    
+    <li>
+        <h5>1916–1917: Sykes-Picot Agreement</h5>
+        
+        The secret agreement between Britain and France divided Ottoman Arab territories, including Palestine, into spheres of influence. Awareness of this external imposition contributed to the emergence of a shared political consciousness and opposition to foreign control (Britannica n.d. -a).
+    </li>
+    
+    <li>
+        <h5>1917: Balfour Declaration</h5>
+        
+        The British declaration supporting a “Jewish homeland” in Palestine triggered a collective response among Palestinians, fostering early nationalist organization and reinforcing the sense of a common political struggle (Britannica n.d. -c).
+    </li>
+    
+    <li>
+        <h5>1922–1929: Uprisings against British occupation and Zionist settlement</h5>
+        
+        Repeated revolts against British mandate authorities and increasing Jewish •	settlement reinforced collective identity, political awareness, and the notion of a shared homeland threatened by external forces.
+    </li>
+    
+    <li>
+        <h5>1936–1939: Great Palestinian Revolt</h5>
+        
+        The revolt against British colonial policies and Jewish settlement involved widespread participation, mobilizing rural and urban communities alike. It strengthened collective resistance, communal solidarity, and the development of political networks.
+    </li>
+    
+    <li>
+        <h5>1948: Palestinian Nakba</h5>
+        
+        The Nakba, or “catastrophe,” resulted in mass displacement, loss of property, and the fracturing of Palestinian society. Despite its destructive consequences, the shared trauma reinforced a sense of national identity and collective memory that persists across generations.
+    </li>
+    
+    <li>
+        <h5>1967: Naksa</h5>
+        
+        The Israeli occupation of the West Bank and Gaza further consolidated Palestinian awareness of shared dispossession, catalyzing political organization and reinforcing collective memory of loss and resistance.
+    </li>
+    
+    <li>
+        <h5>1968: Palestinian National Covenant</h5>
+        
+        The formal articulation of Palestinian political objectives in the Covenant unified diverse factions around a common nationalist ideology, strengthening political cohesion and identity.
+    </li>
+    
+    <li>
+        <h5>1970: Establishment of Hebron University</h5>
+        
+        Founding the first Palestinian university promoted intellectual development and collective educational identity, creating a focal point for cultural and political cohesion.
+    </li>
+    
+    <li>
+        <h5>1977–1979: Egypt-Israel Peace Process</h5>
+        
+        Palestinian awareness of regional peace negotiations and their exclusion from decision-making processes reinforced collective identity and a shared sense of marginalization.
+    </li>
+    
+    <li>
+        <h5>1978: Establishment of Islamic University of Gaza</h5>
+        
+        The creation of a higher education institution in Gaza fostered local intellectual and cultural cohesion, providing a platform for communal development and knowledge preservation.
+    </li>
+    
+    <li>
+        <h5>1982: Israeli invasion of Lebanon and destruction of military PLO presence</h5>
+        
+        The invasion and displacement of the PLO strengthened solidarity among Palestinians across geographic boundaries and reinforced shared political consciousness.
+    </li>
+    
+    <li>
+        <h5>1987: First Intifada</h5>
+        
+        Mass civil resistance in the West Bank and Gaza mobilized Palestinians across class, age, and gender, reinforcing social cohesion and collective action against occupation.
+    </li>
+    
+    <li>
+        <h5>1990–1991: First Gulf War and Collapse of the Soviet Bloc</h5>
+        
+        Global political upheavals affected Palestinian migration and diaspora communities, reinforcing shared identity through common experiences of political uncertainty and displacement.
+    </li>
+    
+    <li>
+        <h5>1993: Oslo Accords and establishment of the Palestinian Authority</h5>
+        
+        The Oslo Accords formalized Palestinian political representation, fostering collective hope and political mobilization while uniting communities under new administrative structures (Britannica n.d. -c).
+    </li>
+    
+    <li>
+        <h5>2000: Unified Palestinian School Curriculum</h5>
+        
+        Implemented across the West Bank and Gaza, the curriculum standardized education, reinforced collective cultural identity, and strengthened shared epistemic frameworks.
+    </li>
+    
+    <li>
+        <h5>2000: Second Palestinian Intifada</h5>
+        
+        Renewed resistance to occupation mobilized Palestinians broadly, reinforcing collective memory, identity, and solidarity across dispersed communities.
+    </li>
+    
+    <li>
+        <h5>2007: Division of Gaza and West Bank following Hamas-Fatah conflict</h5>
+
+        Political division challenged cohesion but also highlighted shared identity through collective experiences of conflict and survival under differing administrative authorities.
+    </li>
+
+</ul>
+
+
+
+<h3 class="subsubtitle">Centrifugal Community-Specific Events</h3>
+
+While the centripetal collective events fostered shared memory and national cohesion, the centrifugal community-specific events acted in the opposite direction. These developments—political, geographic, and social—fragmented the Palestinian people into distinct communities living under divergent governance systems, legal frameworks, and cultural environments. They reshaped collective reasoning and knowledge systems by producing separate epistemic, linguistic, and sociopolitical experiences. Over nearly eight decades, these processes deepened demographic and ideological divergence, weakening the physical and cultural unity of the Palestinian mind while simultaneously generating diverse forms of cultural adaptation and resilience.
+
+The analysis of centrifugal events focuses on the nine major Palestinian population clusters, or “population islands.” Each developed distinct identity markers, institutions, and epistemic environments due to differing historical trajectories, host-state relations, and sociocultural settings. Understanding these communities requires detailed historical and ethnographic study, as their experiences reflect both fragmentation and creative adaptation within broader Palestinian history.
+
+<h4>1. Palestinian Arab Minority in Israel (PAMI)</h4>
+
+Following the Nakba, the PAMI were subjected to military confinement (1948–1960), lived under over 65 discriminatory laws (Adalah n.d.), and occupied a shrinking portion of land relative to Israel’s population. Approximately 87% resided in 107 Arab population centers, 8% in mixed areas, and the remainder in villages not yet recognized by the state (Ghanem and Mustafa 2011). Additional land confiscations and institutional discrimination further affected PAMI communities (Bokae’e 2003). Notable massacres include Kufr Qasim (1956), and violent suppression of protests occurred in 1976.
+
+The 1967 occupation temporarily revived pan-Palestinian identity, social contact, and family relations across historic Palestine. However, the Oslo peace process limited state-building to the West Bank and Gaza, leading PAMI to increasingly identify as a minority within Israel. Early political participation included the Israeli Communist Party, with figures such as Taufiq Ziad and Emil Habeebi, and post-Nakba poets Mahmoud Darwish and Samih al-Qasim (Darraj n.d.). Later, national and Islamic political movements gained dominance, including splits into Northern and Southern Islamic movements.
+
+Instruction in primary and secondary education occurs in Arabic, while higher education is in Hebrew and English. Increasingly, PAMI study in universities within the Occupied Palestinian Territories (OPT), including Jenin and Hebron, as well as abroad (Shibib 2021).
+
+<h4>2. The Palestinian Community in the West Bank</h4>
+
+After the 1948 Nakba, the West Bank was annexed by Jordan (1949–1950). Although formally losing Palestinian statehood, refugees and citizens received equal citizenship. This unity was disrupted by the Israeli occupation in 1967, the rise of the PLO, and Jordan’s disengagement in 1988.
+
+The Oslo peace process divided the West Bank into Zones A, B, and C (Britannica n.d. - c). East Jerusalem was isolated and annexed by Israel in 1980. Escalating violence, settler expansion, and checkpoints created "Bantustan"-like conditions. Over 700,000 settlers resided in 279 Israeli settlements, including 14 in East Jerusalem. Education occurs primarily in Arabic, with English as a secondary language.
+
+Between 1967 and 2021, approximately one million Palestinians from the West Bank and Gaza were detained, including 55,000 children.
+
+<h4>3. The Palestinian Community in the Gaza Strip</h4>
+
+Gaza, home to approximately 2.4 million people on 363 km², became a primary refugee area after 1948, representing 70% of the population. Gaza experienced repeated Israeli incursions and occupations (1956–1957; June 1967).
+
+The 1978 Egypt-Israel peace process affected PLO education and governance in Gaza, coinciding with the establishment of the Islamic University of Gaza and additional higher education institutions. Gaza experienced the first Intifada in 1987 and the second in 2000. The only airport was destroyed in 2002 (Brilliant 2002). Israel disengaged in 2006, while Hamas won elections that year. The blockade began in 2007, restricting movement and goods, leaving Rafah crossing with Egypt as the only partially open border. Tunnel networks emerged to mitigate blockade impacts. Education is in Arabic, with English as the primary language for sciences and higher education.
+
+<h4>4. The Palestinian Community in Lebanon</h4>
+
+Palestinian refugees in Lebanon primarily originated from Jaffa, Haifa, Acre, and Galilee, mostly Sunni Muslims. Hostile policies restricted education, employment, and property ownership. UNRWA provides primary and limited secondary education. Political integration fluctuated; PLO presence was legalized from 1968–1982. Civil war (1975–1990) and Israeli invasion (1982) caused significant displacement and massacres (Sabra and Shatila). UNRWA serves approximately 248,000 Palestinians in Lebanon, providing education, health, and social services. Instruction occurs in Arabic, with English as a secondary language.
+
+<h4>5. The Palestinian Community in Syria</h4>
+
+Approximately 95,000 Palestinians relocated to Syria post-1948, originating mainly from Safad, Tiberias, Haifa, and Akka. Syrian laws granted refugees employment, social, and military rights (Law 450, 1949; Law 260, 1956; Law 1311, 1963). The General Administration for Palestinian Arab Refugees (GAPAR<a href="#fn1" id="fn1back" class="backlink"><sup>i</sup></a>)  managed refugee camps, with Yarmouk as the largest cluster. Conflict and government sieges led to large-scale displacement. UNRWA operates 104 schools educating 45,000 students. Instruction occurs in Arabic, with English for higher education (Abdel Latif 2023).
+
+<h4>6. The Palestinian Community in Jordan</h4>
+
+Jordan hosts 2.39 million registered Palestinian refugees, the largest UNRWA field. Most hold citizenship, granted after the Nakba or between 1948–1967 (Jordanian Nationality Law 1954). Camps provide education and healthcare via UNRWA. Remittances are critical to economic stability, particularly following the Gulf War of 1990–1991.
+
+<h4>7. The Palestinian Community in the Gulf Cooperation Council (GCC) States</h4>
+
+Palestinian migration to GCC countries occurred in three waves: during the oil boom, after the 1967 war, and following the Lebanese civil war. Migrants were primarily laborers; family migration followed later (Schulz and Hammer 2021; Rouleau 1985). Remittances remain a significant source of income for Palestinians under occupation in historic Palestine and in refugee communities.
+
+<h4>8. The Palestinian Communities in Europe and North America</h4>
+
+Communities in Europe and North America are dispersed. Population estimates include: Britain, 60,000 (2017); United States, 236,000 (2005) (Abuamer 2021). European estimates (2001) include Germany, 80,000; Scandinavia, 50,000; Spain, 12,000; France, 5,000; Greece, 4,000; others, 20,000 (Shiblak 2005). Palestinian advocacy faces legal and political challenges.
+
+<h4>9. The Palestinian Community in South America</h4>
+
+Migration of mainly Palestinian Christians began in the late 19th century. Estimates of Palestinians in Latin America range from 500,000 to over 1.1 million, concentrated in Chile (Aljamal and Amour 2020; Baeza 2014). Palestinians contributed to commerce and industrial development, established churches and social organizations, and maintained a strong collective identity.
+
+These nine centrifugal processes have had profound epistemic implications. Each community’s adaptation to distinct political, linguistic, and economic environments led to the formation of separate reasoning systems—variations of Palestinian knowledge embedded in different host contexts. Collectively, they illustrate how fragmentation coexists with continuity: the dispersion of the Palestinian people both weakened and diversified their collective mind, generating plural epistemic identities within a shared historical narrative.
+
+<h3 class="subsubtitle">Pivotal Factors Influencing Palestinian Knowledge Systems</h3>
+
+<h4>1. Governance</h4>
+
+Palestinians are governed across nine jurisdictions, with five hosting the majority: Israel, Jordan, Lebanon, Syria, and Chile. Governance differences shape access to social institutions, education, and markets. UNRWA provides essential services across camps, including education, health, and social support.
+
+<h4>2. Language</h4>
+
+Arabic is central to identity and epistemic cohesion. Instruction is primarily in Arabic, with English as a secondary language for higher education. Language replacement in diaspora communities contributes to identity transformation.
+
+<h4>3. Time/Epoch</h4>
+
+Historical context—including the Nakba, Pan-Arabism, oil economies, and global geopolitical dynamics—affects migration, acculturation, and knowledge system evolution.
+
+<h3 class="subsubtitle">Re-Communicating Palestine</h3>
+
+Global digital and transportation advancements facilitate renewed communication between dispersed Palestinian communities. In 2018, 82% of Palestinian households owned smartphones, 65% had internet access, and 37% possessed computers. Connectivity allows diaspora communities to follow events in Gaza and other areas, fostering global solidarity and collective action.
+
+<h2 class="subtitle">Conclusions</h2>
+
+Palestinian populations today remain fragmented into nine distinct epistemic islands, each shaped by unique sociopolitical realities, linguistic environments, and historical trajectories. This fragmentation has produced divergent modes of knowledge production, localized cultural references, and differing understandings of collective identity.
+
+Historically, communication and interaction between these epistemic islands were limited by geographic separation, colonial boundaries, and later, occupation regimes that restricted mobility and exchange. The resulting isolation contributed to the emergence of multiple sub-identities — regional, religious, linguistic, and class-based — that both reflected and reinforced the uneven distribution of power and resources within Palestinian society.
+
+However, recent advances in transportation, digital communication, and transnational mobility have begun to reconfigure these epistemic relations. The rapid growth of online platforms, digital education, and diaspora networks has created new spaces of contact and dialogue between previously disconnected Palestinian communities. These developments carry the potential to renew processes of cultural convergence and acculturation, facilitating shared intellectual production and the re-emergence of a multilingual, multi-religious, and globally connected Palestinian identity (Shibib 2024).
+
+In this light, the current period may represent a critical epistemic turning point—one in which technological interconnectivity and collective memory can help overcome historical fragmentation and reconstitute a plural, yet cohesive, Palestinian knowledge system capable of articulating its own modernity.
+
+<h2 class="subtitle">References</h2>
+
+<div class="bibliography">
+
+Abdel Latif, Muhammad. M. M., and Majed M. Alhamad. 2023. “Arabicization or Englishization of Higher Education in the Arab World? Controversies, Policies and Realities.” <i>Frontiers in Psychology</i> 14 (February 2023): 1093488. <a href="https://doi.org/10.3389/fpsyg.2023.1093488" target="_blank">https://doi.org/10.3389/fpsyg.2023.1093488</a>.
+
+Abuamer, Majed. 2021. “Palestinians Worldwide: A Demographic Study (Review).” <i>AlMuntaqa</i> 9. <a href="https://almuntaqa.dohainstitute.org/en/issue009/Documents/almuntaqa-09-2021-abuamer.pdf" target="_blank">https://almuntaqa.dohainstitute.org/en/issue009/Documents/almuntaqa-09-2021-abuamer.pdf</a>.
+
+Adalah. n.d. “Discriminatory Laws Database.” <a href="https://www.adalah.org/en/content/view/7771" target="_blank">https://www.adalah.org/en/content/view/7771</a>.
+
+Ahmed, Irfan. 2023. “If Warsaw Ghetto in 1943 Enacted an Uprising and Not Terrorism, So Did Gaza in 2023.” <i>TRT World</i>. <a href="https://www.trtworld.com/opinion/if-warsaw-ghetto-in-1943-enacted-an-uprising-and-not-terrorism-so-did-gaza-in-2023-15671465" target="_blank">https://www.trtworld.com/opinion/if-warsaw-ghetto-in-1943-enacted-an-uprising-and-not-terrorism-so-did-gaza-in-2023-15671465</a>.
+
+Al Jabri, Mohammed Abed. 2016. <i>al-ʿAql al-ʾakhlāqī al-ʿarabī (The Arab Ethical Reason)</i>. Beirut: CAUS.
+
+———. 2017a. <i>Takwīn al-ʿaql al-ʿarabī (The Formation of Arab Reason)</i>. Beirut: CAUS.
+
+———. 2017b. <i>Bunya al-ʿaql al-ʿarabī (The Structure of Arab Reason)</i>. Beirut: CAUS.
+
+———. 2017c. <i>al-ʿAql al-siyāsī al-ʿarabī (The Arab Political Reason</i>). Beirut: CAUS.
+
+Alba, Richard, and Jacob Stowell. 2007. “Linguistic Assimilation across the Generations: An Analysis of Home Language among Second- and Third-Generation Children from Contemporary Immigrant Groups.” <a href="https://paa2007.populationassociation.org/papers/7138" target="_blank">https://paa2007.populationassociation.org/papers/7138</a>.
+
+Aljamal, Yousef M., and Philipp O. Amour. 2020. “Palestinian Diaspora Communities in Latin America and Palestinian Statehood.” <i>Journal of Holy Land and Palestine Studies</i> 19 (1): 101–20. <a href="https://doi.org/10.3366/hlps.2020.0230" target="_blank">https://doi.org/10.3366/hlps.2020.0230</a>.
+
+Arab News. 2024. “Worse than Dresden 1945: Israel’s Gaza Rampage Leaves 75% of Buildings Damaged or Destroyed.” <a href="https://www.arabnews.com/node/2506171/amp" target="_blank">https://www.arabnews.com/node/2506171/amp</a>.
+
+Baeza, Cecilia. 2014. “Palestinians in Latin America: Between Assimilation and Long-Distance Nationalism.” Journal of Palestine Studies 43 (2): 59–72. <a href="https://doi.org/10.1525/jps.2014.43.2.59" target="_blank">https://doi.org/10.1525/jps.2014.43.2.59</a>.
+
+Bartashevich, Jacob P., and S. Mostaghim. 2021. “Multi-Featured Collective Perception with Evidence Theory: Tackling Spatial Correlations.” <i>Swarm Intelligence</i> 15: 83–110. <a href="https://doi.org/10.1007/s11721-021-00192-8" target="_blank">https://doi.org/10.1007/s11721-021-00192-8</a>.
+
+Beim, Aaron. 2007. “The Cognitive Aspects of Collective Memory.” <i>Symbolic Interaction</i> 30 (1): 7–26. <a href="https://doi.org/10.1525/si.2007.30.1.7" target="_blank">https://doi.org/10.1525/si.2007.30.1.7</a>.
+
+Bokae’e, Nihad. 2003. “Palestinian Internally Displaced Persons inside Israel: Challenging the Solid Structure.” <i>BADIL Resource Center Working Paper.</i><a href="https://badil.org/phocadownload/Badil_docs/Working_Papers/Palestinian.IDPs.pdf" target="_blank">https://badil.org/phocadownload/Badil_docs/Working_Papers/Palestinian.IDPs.pdf</a>.
+
+Breslawski, Jori, and Carlo Koos. 2025. "Israelis Have a Skewed View on Extent of Gaza's Hunger Plight − Driven by Censorship and Media That Downplay Humanitarian Crisis." The Conversation, May 22, 2025. <a href="https://theconversation.com/israelis-have-a-skewed-view-on-extent-of-gazas-hunger-plight-driven-by-censorship-and-media-that-downplay-humanitarian-crisis-257201" target="_blank">https://theconversation.com/israelis-have-a-skewed-view-on-extent-of-gazas-hunger-plight-driven-by-censorship-and-media-that-downplay-humanitarian-crisis-257201</a>.
+
+Brilliant, S. 2002. Gaza: History and Conflict. Tel Aviv: Middle East Press.
+
+Britannica. n.d. -a.“The Sykes-Picot Agreement (1916).” <a href="https://www.britannica.com/event/Sykes-Picot-Agreement" target="_blank">https://www.britannica.com/event/Sykes-Picot-Agreement</a>.
+
+———. n.d. – b. “Balfour Declaration (1917).” <a href="https://www.britannica.com/event/Balfour-Declaration" target="_blank">https://www.britannica.com/event/Balfour-Declaration</a>.
+
+———. n.d. – c.“The Oslo Accords (1993).” <a href="https://www.britannica.com/topic/Oslo-Accords" target="_blank">https://www.britannica.com/topic/Oslo-Accords</a>.
+
+Brünker, Felix,Fabian Deitelhoff, and Milad Mirbabaie. 2019. “Collective Identity Formation on Instagram: Investigating the Social Movement Fridays for Future.” <i>ACIS Proceedings</i>. <a href="https://arxiv.org/pdf/1912.05123" target="_blank">https://arxiv.org/pdf/1912.05123</a>.
+
+Chao-Fong, Léonie. 2025. “Donald Trump’s Gaza Plan: The Key Takeaways.” February 5, 2025. <a href="https://www.theguardian.com/world/2025/feb/05/donald-trump-gaza-strip-plan-take-over-move-palestinians-ownership" target="_blank">https://www.theguardian.com/world/2025/feb/05/donald-trump-gaza-strip-plan-take-over-move-palestinians-ownership</a>.
+
+CIE (Center for Israel Education). n.d. “Israel’s Law of Return (1950; amended 1954, 1970).” <a href="http://knesset.gov.il/laws/special/eng/return.htm" target="_blank">http://knesset.gov.il/laws/special/eng/return.htm</a>.
+
+Cole, Nicki Lisa. 2023. “The Concept of Collective Consciousness.” <i>ThoughtCo</i>, April 5. <a href="https://www.thoughtco.com/collective-consciousness-definition-3026118" target="_blank">https://www.thoughtco.com/collective-consciousness-definition-3026118</a>.
+
+Cordonnier, Aline, Valérie Rosoux, Anne-Sophie Gijs, and Olivier Luminet. 2022. “Collective Memory: An Hourglass between the Collective and the Individual.” <i>Memory, Mind & Media</i> (Glasgow) 1 (January 2022): e8. <a href="https://doi.org/10.1017/mem.2022.1" target="_blank">https://doi.org/10.1017/mem.2022.1</a>.
+
+Durkheim, Émile. 1933. <i>The Division of Labor in Society</i>. Translated by George Simpson. Glencoe, IL: Free Press. <a href="https://ia601408.us.archive.org/14/items/in.ernet.dli.2015.233884/2015.233884.The-Division.pdf" target="_blank">https://ia601408.us.archive.org/14/items/in.ernet.dli.2015.233884/2015.233884.The-Division.pdf</a>.
+
+———. 1915. <i>The Elementary Forms of Religious Life.</i><a href="https://archive.org/details/elementaryformso1915durk" target="_blank">https://archive.org/details/elementaryformso1915durk</a>.
+
+Elgin, Duane. 1997. “Collective Consciousness and Cultural Healing.” <i>Millennium Project</i>. <a href="https://www.researchgate.net/publication/313755994_Collective_Consciousness_and_Cultural_Healing" target="_blank">https://www.researchgate.net/publication/313755994_Collective_Consciousness_and_Cultural_Healing</a>.
+
+Foucault, Michel. 1970. <i>The Order of Things: An Archaeology of the Human Sciences</i>. <a href="http://www.naturalthinker.net/trl/texts/Foucault,Michel/Foucault,%20Michel%20%20The%20Order%20of%20Things.pdf" target="_blank">http://www.naturalthinker.net/trl/texts/Foucault,Michel/Foucault,%20Michel%20%20The%20Order%20of%20Things.pdf</a>.
+
+———. 1972. <i>The Archaeology of Knowledge.</i> <a href="https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf" target="_blank">https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf</a>.
+
+Freedman, Lawrence D. 2025. “The Age of Forever Wars.” <i>Foreign Affairs</i>, April 2025. <a href="https://www.foreignaffairs.com/age-forever-wars" target="_blank">https://www.foreignaffairs.com/age-forever-wars</a>.
+
+Ghanem, As’ad, and Mohanad Mustafa. 2011. “The Palestinians in Israel: The Challenge of the Indigenous Group Politics in the ‘Jewish State.’” <i>Journal of Muslim Minority Affairs</i> 31 (2): 177–96. <a href="https://israelresources.brandeis.edu/wp-content/uploads/2017/05/Ghanem-The-Palestinians-in-Israel.pdf" target="_blank">https://israelresources.brandeis.edu/wp-content/uploads/2017/05/Ghanem-The-Palestinians-in-Israel.pdf</a>.
+
+Hovering, Roald. 2018. “Gaza: The World’s Largest Open-Air Prison.” <i>Norwegian Refugee Council (NRC)</i>. <a href="https://www.nrc.no/news/2018/april/gaza-the-worlds-largest-open-air-prison" target="_blank">https://www.nrc.no/news/2018/april/gaza-the-worlds-largest-open-air-prison</a>/.
+
+ICJ (International Court of Justice). 2024. <i>Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel)</i>. <a href="https://www.icj-cij.org/sites/default/files/case-related/192/192-20241008-int-01-00-en.pdf" target="_blank">https://www.icj-cij.org/sites/default/files/case-related/192/192-20241008-int-01-00-en.pdf</a>.
+
+Darraj, Faisal. n.d. "The Palestinian Short Story. » In : Interactive Encyclopedia of the Palestine Question. <a href="https://www.palquest.org/en/highlight/10518/palestinian-short-story" target="_blank">https://www.palquest.org/en/highlight/10518/palestinian-short-story</a>
+
+Irfan, Anne. 2023. “Why Palestinians Are Known as the World’s Best-Educated Refugees.” <i>Columbia University Press Blog</i>, August 23. <a href="https://cupblog.org/2023/08/23/why-palestinians-are-known-as-the-worlds-best-educated-refugeesanne-irfan/" target="_blank">https://cupblog.org/2023/08/23/why-palestinians-are-known-as-the-worlds-best-educated-refugeesanne-irfan/</a>.
+
+JPPI (The Jewish People Policy Institute). 2025. “Majority of Israelis Support Trump’s Proposal to Relocate Gaza’s Population to Other Countries.” March 2nd, 2025. <a href="https://jppi.org.il/en/%D7%A1%D7%A7%D7%A8-%D7%94%D7%97%D7%91%D7%A8%D7%94-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA-%D7%9C%D7%97%D7%95%D7%93%D7%A9-%D7%A4%D7%91%D7%A8%D7%95%D7%90%D7%A8-%D7%A8%D7%95%D7%91-%D7%92%D7%93/" target="_blank">https://jppi.org.il/en/%D7%A1%D7%A7%D7%A8-%D7%94%D7%97%D7%91%D7%A8%D7%94-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA-%D7%9C%D7%97%D7%95%D7%93%D7%A9-%D7%A4%D7%91%D7%A8%D7%95%D7%90%D7%A8-%D7%A8%D7%95%D7%91-%D7%92%D7%93/</a>
+
+Jewish Virtual Library (JVL). n.d. “Immigration to Israel: The First Aliyah (1882-1903)”. <a href="https://jewishvirtuallibrary.org/the-first-aliyah-1882-1903" target="_blank">https://jewishvirtuallibrary.org/the-first-aliyah-1882-1903</a>.
+
+Joudah, Ahmad Hasan. 2014. <i>Revolt in Palestine in the Eighteenth Century: The Era of Shaykh Zahir al-‘Umar</i>. Piscataway, NJ: Gorgias Press. Excerpt in <i>Jerusalem Quarterly</i> 63–64: 72–86. <a href="https://www.palestine-studies.org/sites/default/files/jq-articles/JQ_63_Zahir_al-Umar_0.pdf" target="_blank">https://www.palestine-studies.org/sites/default/files/jq-articles/JQ_63_Zahir_al-Umar_0.pdf</a>.
+
+Kaim, Markus. 2015. “Israels Sicherheit als deutsche Staatsräson: Was bedeutet das konkret?” in: <i>Aus Politik und Zeitgeschichte, 65(2015)</i>, Nr. 6, S. 8 –13.
+
+Khalidi, Rashid. 2020. <i>The Hundred Years’ War on Palestine: A History of Settler Colonialism and Resistance, 1917–2017</i>. London: Profile Books.
+
+Masalha, Nur. 2020. <i>Palestine: A 4000-Year History</i>. London: Zed.
+
+Mitova, V. 2022. “The Collective Epistemic Reasons of Social-Identity Groups.” <i>Asian Journal of Philosophy</i> 1 (47). <a href="https://doi.org/10.1007/s44204-022-00051-" target="_blank">https://doi.org/10.1007/s44204-022-00051-</a>.
+
+Moaswes, Abdulla. 2024. “The Epistemicide of the Palestinians: Israel Destroys Pillars of Knowledge.” <i>Institute for Palestine Studies</i>, February 2, 2024. <a href="https://www.palestine-studies.org/en/node/1655161" target="_blank">https://www.palestine-studies.org/en/node/1655161</a>.
+
+Muthukrishna, Michael, and Joseph Henrich. 2016. “Innovation in the Collective Brain.” <i>Philosophical Transactions of the Royal Society of London. Series B. Biological Sciences</i> (England) 371 (1690): 20150192. <a href="https://doi.org/10.1098/rstb.2015.0192" target="_blank">https://doi.org/10.1098/rstb.2015.0192</a>.
+
+Palestine Land Society n.d. Database For Palestinian Villages in 2000 Years. A comprehensive database for depopulated palestinian villages in 20 centuries: (The 21st, 20th, 19th, 15th and 4th). <a href="https://www.plands.org/en/villages-database" target="_blank">https://www.plands.org/en/villages-database</a>
+
+Pappé, Ilan. 2006. <i>The Ethnic Cleansing of Palestine</i>. Paperback ed., repr. Oxford: Oneworld.
+
+ReliefWeb. 2024. “Ecocide: Israel’s Deliberate and Systematic Environmental Destruction in Gaza.” October. <a href="https://reliefweb.int/report/occupied-palestinian-territory/ecocide-israels-deliberate-and-systematic-environmental-destruction-gaza" target="_blank">https://reliefweb.int/report/occupied-palestinian-territory/ecocide-israels-deliberate-and-systematic-environmental-destruction-gaza</a>.
+
+———. 2025. “Israel’s Targeting and Disabling of Gaza Hospitals: Dismantling Life and Destroying ‘Last Refuges.’” May 14. <a href="https://reliefweb.int/report/occupied-palestinian-territory/israels-targeting-and-disabling-gaza-hospitals-dismantling-life-and-destroying-last-refuges-enar" target="_blank">https://reliefweb.int/report/occupied-palestinian-territory/israels-targeting-and-disabling-gaza-hospitals-dismantling-life-and-destroying-last-refuges-enar</a>.
+
+Rouleau, Eric. 1985. “The Palestinian Diaspora of the Gulf.” <i>Middle East Report</i> 132 (May–June). <a href="https://merip.org/1985/05/the-palestinian-diaspora-of-the-gulf/" target="_blank">https://merip.org/1985/05/the-palestinian-diaspora-of-the-gulf/</a>.
+
+Safi, Khaled M. 2008. “Territorial Awareness in the 1834 Palestinian Revolt.” In <i>Temps et Espaces en Palestine</i>, 43–54. Beyrouth: Presses de l’Ifpo. <a href="https://doi.org/10.4000/books.ifpo.483" target="_blank">https://doi.org/10.4000/books.ifpo.483</a>.
+
+Schulz, Helena Lindholm, and Juliane Hammer. 2003. <i>The Palestinian Diaspora: Formation of Identities and Politics of Homeland</i>. London: Routledge.
+
+Schweikard, David P., and Hans Bernhard Schmid. 2021. "Collective Intentionality." In The Stanford Encyclopedia of Philosophy, Fall 2021 edition, edited by Edward N. Zalta. <a href="https://plato.stanford.edu/archives/fall2021/entries/collective-intentionality/" target="_blank">https://plato.stanford.edu/archives/fall2021/entries/collective-intentionality/</a>.
+
+Shat, Fouad J. F., Amin Mousavi, and Elias Pimenidis. 2014. "Electronic Government Enactment in a Small Developing Country: The Palestinian Authority's Policy and Practice." In <i>E-Democracy, Security, Privacy and Trust in a Digital World: e-Democracy 2013</i>, edited by Alexander Sideridis, Zoe Kardasiadou, Constantine Yialouris, and Vassilios Zorkadis, 82-93. Communications in Computer and Information Science, vol. 441. Cham: Springer. <a href="https://doi.org/10.1007/978-3-319-11710-2_8" target="_blank">https://doi.org/10.1007/978-3-319-11710-2_8</a>.
+
+Shibib, Khaled. 2024. “Epistemes of Palestine: Knowledge Systems of a Centurial Struggle.” <i>Contemporary Arab Affairs</i>, 17(1), 1–31. <a href="https://doi.org/10.1163/17550920-bja00032" target="_blank">https://doi.org/10.1163/17550920-bja00032</a>.
+
+Shibib, Khaled. 2021. “From Higher Education in Historic Palestine towards a Pan-Palestinian Higher Education.” <i>Contemporary Arab Affairs</i> 14 (3): 21–54. <a href="https://doi.org/10.1525/caa.2021.14.3.21" target="_blank">https://doi.org/10.1525/caa.2021.14.3.21</a>.
+
+Shiblak, Abbas. 2005. Reflections On The palestinian Diaspora in Europe. In: <i>The Palestinian Diaspora in Europe: Challenges of Dual Identity and Adaptation</i>. Refugee and Diaspora Studies, no. 2. Oxford: Refugee Studies Centre. <a href="https://www.rsc.ox.ac.uk/files/files-1/palestinian-diaspora-europe-2005.pdf" target="_blank">https://www.rsc.ox.ac.uk/files/files-1/palestinian-diaspora-europe-2005.pdf</a>.
+
+Sullivan, Becky. 2024. “What Is ‘Domicide,’ and Why Has War in Gaza Brought New Attention to the Term?” <i>NPR News</i>, February 9, 2024. <a href="https://www.npr.org/2024/02/09/1229625376/domicide-israel-gaza-palestinians" target="_blank">https://www.npr.org/2024/02/09/1229625376/domicide-israel-gaza-palestinians</a>.
+
+The Jerusalem Post. 2025. “Less than 15% of Israelis Believe Trump’s Plan Is ‘Immoral.’” February 3, 2025. <a href="https://www.jpost.com/international/article-840500" target="_blank">https://www.jpost.com/international/article-840500</a>.
+
+The Knesset. 2018. <i>Basic Law: Israel – The Nation-State of the Jewish People.</i> <a href="https://main.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf" target="_blank">https://main.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf</a>.
+
+The New Arab. 2024. "US Senator Lindsey Graham Suggests Gaza Should Be Nuked." May 13, 2024. <a href="https://www.newarab.com/news/us-senator-lindsey-graham-suggests-gaza-should-be-nuked" target="_blank">https://www.newarab.com/news/us-senator-lindsey-graham-suggests-gaza-should-be-nuked</a>.
+
+The Times of Israel. 2023. "Far-Right Minister Says Nuking Gaza an Option, PM Suspends Him from Cabinet Meetings." November 5, 2023. <a href="https://www.timesofisrael.com/far-right-minister-says-nuking-gaza-an-option-pm-suspends-him-from-cabinet-meetings/" target="_blank">https://www.timesofisrael.com/far-right-minister-says-nuking-gaza-an-option-pm-suspends-him-from-cabinet-meetings/</a>.
+
+The Wire. 2023. "Chart: 6,407 Palestinians and 308 Israelis Killed in Violence in Last 15 Years." October 9, 2023. <a href="https://m.thewire.in/article/world/chart-6407-palestinians-and-308-israelis-killed-in-violence-in-last-15-years" target="_blank">https://m.thewire.in/article/world/chart-6407-palestinians-and-308-israelis-killed-in-violence-in-last-15-years</a>.
+
+United Nations. 2015. World Population Prospects. <a href="https://population.un.org/wpp/assets/Files/WPP2015_DataBooklet.pdf" target="_blank">https://population.un.org/wpp/assets/Files/WPP2015_DataBooklet.pdf</a>
+
+UNCTAD. 2024. “Gaza: Unprecedented Destruction Will Take Tens of Billions of Dollars and Decades to Reverse.” <i>United Nations Conference on Trade and Development</i>, January. <a href="https://www.un.org/unispal/document/unctad-report-gaza-destruction-31jan-2024/" target="_blank">https://www.un.org/unispal/document/unctad-report-gaza-destruction-31jan-2024/</a>.
+
+UNRWA. 2022. "Gaza: 15 Years of Blockade." <a href="https://www.unrwa.org/gaza15-years-blockade" target="_blank">https://www.unrwa.org/gaza15-years-blockade</a>.
+
+Youvan, Douglas C. 2024. “A Comparative Analysis of the Explosive Impact on Gaza and Historical Bombings: Lessons from Hiroshima, Nagasaki, and Dresden.” <a href="https://doi.org/10.13140/RG.2.2.32452.23681" target="_blank">https://doi.org/10.13140/RG.2.2.32452.23681</a>.
+
+</div>
+
+<h2 class="subtitle">ENDNOTES</h2>
+
+<div class="endnotes">
+
+<ul>
+
+<li id="fn1" class="fussnote"><a href="#fn1back">i</a>&emsp;A Syrian government agency founded in 1949, which, under the auspices of the Ministry of Social Affairs and Labour, is responsible for the registration and care of Palestinian refugees in Syria and works closely with UNRWA.</li>
+
+</ul>
+
+</div>

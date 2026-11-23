@@ -1,12 +1,60 @@
 <!DOCTYPE html>
 <html lang="de">
-  <head>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sumud Journal</title>
-  </head>
-  <body>
-    <h1>Sumud Journal</h1>
-    <p>Coming soon.</p>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sumud Journal</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // Darkmode sofort laden, bevor die Seite rendert
+    if (localStorage.getItem('darkmode') === 'enabled') {
+      document.documentElement.classList.add('darkmode');
+    }
+  </script>
+</head>
+<body>
+  <header>
+    <a href="index.html">
+    <h1>SUMUD</h1>
+    <p class="magazinesubtitle translate-text">
+      <span class="lang-de">Journal</span>
+      <span class="lang-en">Journal</span>
+    </p>
+    </a>
+  </header>
+
+  <main class="grid-container">
+    <!-- Artikel werden hier per JavaScript eingefügt -->
+  </main>
+
+<footer>
+  <nav>
+
+    <a href="uber-uns.html" class="translate-text">
+      <span class="lang-de">Über uns</span>
+      <span class="lang-en">About us</span>
+    </a>
+
+    <a href="jahresausgaben.html" class="translate-text">
+      <span class="lang-de">Jahresausgaben</span>
+      <span class="lang-en">Annual Editions</span>
+    </a>
+
+    <a href="impressum.html" class="translate-text">
+      <span class="lang-de">Impressum & Datenschutz</span>
+      <span class="lang-en">Legal Notice & Privacy Notice</span>
+    </a>
+
+    <button id="darkmode-toggle">🌙 Darkmode</button>
+    <button id="lang-toggle">
+      <span class="lang-text-de">DE</span>
+      <span class="lang-separator">|</span>
+      <span class="lang-text-en">EN</span>
+    </button>
+
+  </nav>
+</footer>
+
+  <script src="script.js"></script>
+</body>
 </html>

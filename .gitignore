@@ -1,2 +1,4 @@
 # Ignore PhpStorm config
 /.idea
+#I Ignore vscode config
+/.vscode

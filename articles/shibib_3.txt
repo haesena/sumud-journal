@@ -1,0 +1,512 @@
+<h2 class="subtitle">Abstract</h2>
+
+Dieser Beitrag untersucht die historischen, politischen und epistemologischen Dimensionen des palästinensischen Kampfes anhand des Konzepts von <i>„Sumūd“</i> – Standhaftigkeit – sowohl als gelebte Erfahrung als auch als Rahmen des Widerstands. Auf der Grundlage von Archivquellen, postkolonialer Theorie und zeitgenössischer Feldforschung verortet er den andauernden Konflikt nicht als isoliertes Ereignis, sondern als Teil einer jahrhundertelangen Struktur aus kolonialer Herrschaft durch Siedler und der Widerstandsfähigkeit der indigenen Bevölkerung. Indem die Kontinuitäten zwischen kolonialem Diskurs, räumlicher Kontrolle und narrativer Macht nachgezeichnet werden, verdeutlicht die Studie, wie Palästinenser*innen unter den Bedingungen der Besatzung Identität, Erinnerung und Gerechtigkeit artikulieren. Die Argumentation stützt die These, dass <i>„Sumūd“</i> gleichzeitig als materielle Praxis des Durchhaltens und als epistemologischer Kontrapunkt zu hegemonialen Darstellungen fungiert und so das Verhältnis zwischen Raum, Souveränität und Wissensproduktion in Palästina neu konfiguriert.
+
+Wann immer von der Einheit  oder ihrer Spaltung der Palästinenser die Rede ist, ist damit in der Regel die politische Kluft zwischen Hamas und Fatah gemeint. Es gibt jedoch eine weitere Kluft von strategischer und langfristig wichtigerer und wirkungsvollerer Dimension, die die Einheit der Palästinenser beeinträchtigt: die wachsende epistemische Kluft, die sich aus der demografischen und kulturellen Zerstreuung des palästinensischen Volkes ergibt, gepaart mit der Fragmentierung und Schwäche ihrer kollektiven Identität und ihres Denksystems.
+
+Infolgedessen ist die palästinensische nationale Identität und das kollektive Denksystem, die sich über Jahrhunderte hinweg im ethnischen, kulturellen und religiösen Konglomerat der Levante/Bilad al-Sham entwickelt haben, nun  in mindestens neun Teilidentitäten und gemeinschaftliche Denksysteme zersplittert. Diese demografisch-epistemische Kluft, die vor allem auf die palästinensische Nakba von 1948 zurückgeht, birgt das Potenzial, in den kommenden Jahrzehnten weitere Spaltungen hervorzurufen.
+
+Auf der anderen Seite fliesst die kulturell-epistemische Vielfalt, die aus der jahrzehntelangen Interaktion mit nicht-palästinensischen Aufnahmemilieus resultiert, langsam in den Kern der palästinensischen Identität ein und stellt zusätzliche kulturelle Wissensressourcen bereit. Kulturelle und epistemische Heilung, Anpassung sowie die Integration von Migranten und Eindringlingen sind das Genie Palästinas im Laufe der Geschichte. Der Prozess der Wiederherstellung der Einheit in der Vielfalt des Palästinensismus würde einen Raum für die Wiedereingliederung des Judentums in eine neue/alte multikonfessionelle, mehrsprachige palästinensische Identität und ein entsprechendes Denksystem schaffen.
+
+Dieser Aufsatz baut auf einer früheren Arbeit über die Entwicklung und die epistemischen Einheiten des palästinensischen Denk- und Wissenssystems auf (Shibib 2024). Obwohl er – wie jede Frage im Zusammenhang mit Palästina – politischer Natur ist, geht es hier nicht darum, politische Lösungen und Szenarien für den aktuellen <i>Status quo</i>  im Nahen Osten zu erörtern.
+
+<h2 class="subtitle">I. Einleitung</h2>
+
+Der anhaltende Krieg im und gegen den Gazastreifen sowie der öffentlich verkündete Plan der USA und Israels, 2,4 Millionen Palästinenser aus dem Gazastreifen ethnisch zu säubern (Chao-Fong 2025 ), haben die kollektiven Erinnerungen der Palästinenser an Massaker, Zerstörung und die Entvölkerung von Hunderten von Dörfern und Gemeinden (vgl. Palestine Land Society o.J.) während der Nakba von 1948 wiederbelebt.
+
+Dieser Aufsatz beleuchtet den Völkermord  im Gazastreifen als extremes Beispiel dafür, wie eine der neun weltweit verstreuten palästinensischen Gemeinschaften der Auslöschung ausgesetzt ist (ICJ), wobei sie sich fast ausschliesslich auf ihre eigenen lokalen Ressourcen stützt. Um ethnische Säuberungen zu ermöglichen, hatsystematisch  Israel die Infrastruktur des Gazastreifens ins Visier genommen  — darunter die meisten Wohngebäude  (Sullivan 2024), die Umwelt (ReliefWeb 2024), die Wirtschaft (UNCTAD 2024), das Gesundheitssystem (ReliefWeb 2025) sowie Bildungseinrichtungen (Mowaswes 2024). Trotz der bedingungslosen Solidarität, die traditionell unter den Palästinensern weltweit herrscht, ist Gaza weitgehend auf sich allein gestellt.
+
+Während Israel, die Vereinigten Staaten und ein Grossteil der westlichen Medien weiterhin behaupten, dass der aktuelle Krieg gegen den Gazastreifen mit dem Angriff der Hamas auf den Süden Israels am 7. Oktober 2023 begann, und dabei die Tatsache ignorieren oder sogar leugnen, dass der Krieg in und um Palästina bereits seit mehr als einem Jahrhundert andauert (Khalidi 2020), erzählt  die historische und politische Realität der letzten zwei Jahrzehnte eine andere Geschichte. Nach der Machtübernahme der Hamas im Gazastreifen in den Jahren 2006–2007 erklärte Israel das Gebiet  zum „feindlichen“ Gebiet und rechtfertigte damit strenge Einschränkungen der Bewegungsfreiheit sowie der Versorgung mit Treibstoff, Strom und anderen lebenswichtigen Gütern. Diese Massnahmen verwandelten den Gazastreifen in das, was als das „grösste Freiluftgefängnis der Welt” bezeichnet wurde (Hovering 2018 ), in dem rund 2,4 Millionen Palästinenser, die meisten von ihnen Flüchtlinge, leben. Seitdem ist der Gazastreifen regelmässig Empfänger internationaler humanitärer Hilfe (UNRWA 2022), da Israel und die Hamas in wiederkehrende Gewaltzyklen verwickelt sind, die in gross angelegten Kriegen in den Jahren 2008, 2009 und 2014 gipfelten. Zwischen 2008 und 2014 wurden 6.407 Palästinenser und 308 Israelis getötet (The Wire 2023), und die zivile Infrastruktur erlitt massive Zerstörungen.
+
+Gestützt durch bedingungslose Unterstützung aus dem Westen in den Bereichen Politik, Medien, Militär und Geheimdienst, gehen der Völkermord in Gaza und das umfassendere Projekt der ethnischen Säuberung in ganz Palästina unvermindert weiter. Während die jüdischen Gemeinschaften weltweit gespalten sind, lehnen Berichten zufolge zwei Drittel der israelischen Juden humanitäre Hilfe für die Bevölkerung Gazas ab (Breslawski und Koos 2025) und befürworten die laufende Initiative des US-Präsidenten Donald Trump (JPPI 2025), die darauf abzielt, die Palästinenser aus Gaza gewaltsam nach Ägypten, Jordanien und in andere Staaten zu vertreiben. Weniger als 3 Prozent der israelischen Juden halten diese Politik für unmoralisch (The Jerusalem Post 2025 ). Drohungen mit dem Einsatz von Atomwaffen wurden sowohl von von einem israelischen Minister (The Times of Israel 20243) als auch einem US-Senator (The New Arab 2024) geäussert. Beobachter haben das Ausmass derZerstörung und der Todesopfer in Gaza mit dem von Hiroshima und Nagasaki (Youvan 2024) sowie mit der Zerstörung Dresdens durch die britische Luftwaffe am Ende des Zweiten Weltkriegs (Arab News 2024) verglichen. Andere haben Parallelen zwischen der Verwüstung Gazas und der Niederschlagung des Warschauer Ghetto-Aufstands von 1943 gezogen (Ahmed 2023).
+
+Israels anhaltende, auf Völkermord ausgerichtete Kampagne im Gazastreifen ist der Höhepunkt jahrzehntelanger Eskalation der Gewalt, die möglicherweise auf einen konsistenten zionistischen <i>Modus Operandi</i> hindeutet : das Streben nach einer endgültigen Lösung der Palästinafrage durch vollständige Zerstörung und Vertreibung.
+
+Angesichts dieses vielschichtigen Kriegsverbrechens hat  jede der acht anderen palästinensischen Bevölkerungsenklaven – die in der Vergangenheit ihre eigenen Katastrophen durchlebt haben – maximale Solidarität bekundet, ist jedoch nach wie vor nicht in der Lage, nennenswerte direkte Hilfe für Gaza zu leisten.  Dennoch halten die Palästinenser im gesamten  historischen Palästina und in der weltweiten Diaspora an ihrem Widerstand und ihrer Widerstandsfähigkeit fest, was eine breite Solidarität  an der Basis inspiriert. Unterdessen tötet, zerstört und vertreibt Israel in den besetzten palästinensischen Gebieten weiterhin.
+
+Um ihre bedingungslose Unterstützung für Israel aufrechtzuerhalten und zu rechtfertigen, haben  die USA gemeinsam mit ihren westlichen Verbündeten Druck auf internationale Institutionen ausgeübt und damit die von ihnen einst mitgeschaffene Nachkriegsordnung untergraben und zersplittert, darunter die UNESCO, den Menschenrechtsrat (HRC), den Internationalen Gerichtshof (ICJ), den Internationalen Strafgerichtshof (ICC), die UNRWA und die WHO .
+
+Was die demografische Entwicklung betrifft, schätzte das Palästinensische Zentralamt für Statistik (PCBS) im Jahr 2017 die Bevölkerung der besetzten palästinensischen Gebiete (Westbank und Gazastreifen) auf rund 5 Millionen, was 37,7 Prozent der Palästinenser weltweit entspricht. Diese Zahl wird voraussichtlich bis 2050 auf 9,79 Millionen und bis 2100 auf 15,5 Millionen ansteigen (United Nations, 15). Auf die gesamte Welt hochgerechnet könnte die palästinensische Bevölkerung bis 2100 40 Millionen überschreiten. Palästinenser, die für ihr hohes Bildungsniveau bekannt sind, zählen zu den am besten ausgebildeten Flüchtlingsgruppen der Welt (Irfan 2023). 77 Jahre nach der Nakba leben weiterhin  mehr als 80 Prozent der Palästinenser entweder im historischen Palästina oder in benachbarten arabischen Ländern.
+
+Trotz Israels Dominanz, seiner jahrzehntelangen Besetzung und Kontrolle über das historische Palästina sowie der inneren Spaltungen unter den Palästinensern ist es  Israel bislang nicht gelungen, das palästinensische Volk endgültig zu besiegen. Jenseits von der Widerstandsfähigkeit und dem Widerstand der Palästinenser spiegelt diese Pattsituation die inhärente Unmöglichkeit des Zionismus wider, sein oberstes politisches Ziel zu erreichen: die Auslöschung der palästinensischen Identität. In diesem Sinne spiegeln die Ausdauer und die Errungenschaften der Palästinenser die Misserfolge des Zionismus wider. Der Krieg im historischen Palästina gehört somit zu dem, was Lawrence Freedman (2025) als Kategorie der „Ewigen Kriege“ bezeichnet hat.
+
+<h2 class="subtitle">II. Kulturen, narrativer Krieg und Wissenssysteme</h2>
+
+<h3 class="subsubtitle">Kulturen erzeugen Epistemes und kollektive Wissenssysteme</h3>
+
+Im Laufe der Geschichte bildete die vorherrschende Grundlage für Kultur einer bestimmten Gemeinschaft oder eines Volkes dessen kollektives Denken, Wissenssystem oder sein „kollektiver Geist“. Kultur umfasst Erzählungen, Mythen, Geografie, Religion, Sprache und materielles Erbe – Poesie, Literatur, Folklore, Küche, Kleidung, Stickerei, Musik und Tanz. Diese Elemente werden über Generationen hinweg durch das Familienleben, die Bildung und die Medien weitergegeben. Wie Muthukrishna (2016, 2) feststellt: „Unsere Gesellschaften und sozialen Netzwerke fungieren als kollektives Gehirn.”
+
+Michel Foucault definiert <i>Episteme</i> als „die Gesamtheit der Beziehungen, die für einen bestimmten Zeitraum zwischen den Wissenschaften entdeckt werden können, wenn man sie auf der Ebene diskursiver Regelmässigkeiten analysiert“ (Foucault 1972, 191–92). Er argumentiert weiter, dass es „in jeder beliebigen Kultur und zu jedem beliebigen Zeitpunkt immer nur ein einziges ‚Epistem‘ [gibt], das die Bedingungen der Möglichkeit von Wissen definiert, sei es in einer Theorie zum Ausdruck gebracht oder stillschweigend in eine Praxis eingebettet“(Foucault 1970, 168).
+
+Im Gegensatz dazu versteht Mohammed Abed al-Jabri das arabische Denken als eines, das sich aus mehreren Wissenssystemen (<i>niẓām maʿrifī</i>) zusammensetzt. Für al-Jabri ist das arabische Denken „das Werkzeug zum Denken und zur Erzeugung von Wissen für Araber und ist in ihrer ganz besonderen und eigenständigen arabischen Kultur verwurzelt. Diese Kultur spiegelt die Geschichte der Araber sowie ihre Zukunftsvorstellungen und zugleich die Gründe für ihren gegenwärtigen Rückstand wider. Die Summe der in einer bestimmten historischen Periode anerkannten Normen verleiht ihnen in dieser spezifischen historischen Periode einen absoluten Wert“ (al-Jabri 2017a, 13 –14). Er kommt zu dem Schluss, dass „andere Nationen durch ihre eigenen Kulturen mit eigenständigen Konzepten der Vernunft ausgestattet sind “ (al-Jabri 2017a, 17).
+
+ 
+
+<h3 class="subsubtitle">Zirkulationssdynamik innerhalb des kollektiven Bewusstseins</h3>
+
+Im Laufe der Zeit verändert die kulturelle Evolution die epistemischen Systeme, die das kollektive Denken bestimmen. Wie Foucault feststellt: „Ein Epistem ist keine unbewegliche Gestalt; es ist ein sich ständig wandelndes Geflecht aus Verknüpfungen, Verschiebungen und Zufällen, die nur dazu dienen, andere entstehen zu lassen“ (Foucault 1972, 191).
+
+Zentrifugale oder divergierende Kräfte wie Migration, unterbrochene Bindungen an die Heimatländer, der Verlust der Muttersprachen (Alba und Stowell 2007), Akkulturation und Exogamie neigen dazu, die Identifikation mit den Herkunftskulturen zu schwächen und die Integration in die Aufnahmegesellschaften zu fördern. Umgekehrt zentripetale – oder konvergierende – Kräfte wirken darauf hin, die Identität durch Landbesitz, familiäre und städtische Solidarität, Sprache, Folklore, Religion und kommunale Selbstverwaltung zu bewahren. Trotz Zersplitterung, Apartheid und Besatzung bleibt das historische Palästina das geografische und symbolische Zentrum dieser zusammenwirkenden Kräfte. Entscheidende Ereignisse wie der Libanonkrieg von 1982, die Intifadas von 1987 und 2000 sowie der derzeitige Völkermord in Gaza fungieren als Anziehungspunkte, um die sich  die palästinensischen Solidaritäts- und Widerstandsbewegungen zusammenschliessen.
+
+Zusätzlich zu diesen zentripetalen und zentrifugalen Bewegungen beschreiben  Cordonnier und Kollegen (2022) eine sanduhrartige Zirkulation zwischen dem kollektiven Denkverarbeitungssystem einer Nation (Makroebene ) und den einzelnen Köpfen, aus denen es besteht (Mikroebene). Diese Dynamik gilt für mehrere miteinander verbundene Dimensionen der kollektiven Kognition – Wahrnehmung (Bartashevich 2021), Bewusstsein (Elgin 1997; Cole 2023), Identität (Brünker 2019; Mitova 2022), Wissen (Beim 2007) und Intentionalität (Schweikard and Schmid 2021).
+
+(einfügen Abbildung : Interne und externe Kräfte, die auf den kollektiven Geist einwirken)
+
+Während sich solche Wechselwirkungen in der Regel langsam entwickeln, können  plötzliche und intensive kollektive Ereignisse Schwingungen zwischen Mikro- und Makroebenen des Bewusstseins auslösen und so rasche Transformationen in kollektiven Wissenssystemen bewirken. Diese <i>epistemische Lebhaftigkeit</i> entspricht Émile Durkheims Konzept der „kollektiven Lebhaftigkeit“ bei religiösen oder gesellschaftlichen Zusammenkünften (Durkheim 1915, 218 –19, 228).
+
+ 
+
+<h3 class="subsubtitle">Ein Krieg der Narrative und des kollektiven Denkens im historischen Palästina</h3>
+
+Seit über einem Jahrhundert tobt ein anhaltender Krieg der Narrative zwischen dem  politischen Zionismus und dem Palästinensertum. Drei vorgeschlagene „Lösungen“ für den sogenannten Nahostkonflikt sind wiederholt gescheitert:
+
+<ol>
+
+    <li>Die Wiederherstellung des Palästinas vor 1948 und die Überwindung der Nakba,</li>
+
+    <li>Erreichung eines zionistischen Sieges durch vollständige Vertreibung sowie</li>
+
+    <li>die Umsetzung der internationalen „Zweistaatenlösung“.</li>
+
+</ol>
+
+Dieser narrative Konflikt lässt keinen echten Kompromiss zu; bestenfalls führt er zu vorübergehenden Waffenstillständen, bevor die Feindseligkeiten wieder aufflammen.
+
+Der politische Zionismus entstand nicht als jüdische, sondern als christlich-anglikanische Ideologie im Grossbritannien des 17. Jahrhunderts  – damals die weltweit führende Imperialmacht – und breitete sich von dort aus auf die amerikanischen Kolonien aus. Er manifestiert sich heute in der uneingeschränkten Unterstützung, die Israel von den Vereinigten Staaten und Europa erhält – eine Unterstützung, die selten “Israels” geografische oder politische Grenzen selbst definiert (Kaim 2015). Dazu können beispielsweise Israel in den Grenzen von 1948, Israel und die von Israel besetzten palästinensischen Gebiete oder das biblische Gross-Israel vom Nil bis zum Euphrat gehören.
+
+Der jüdische politische Zionismus, eine spätere und ausschliesslich europäische Bewegung, formulierte einen religiös-kulturellen Anspruch, wonach alle Juden ein von Gott auserwähltes Volk bilden, das Anspruch auf Palästina (<i>Eretz Israel</i>) hat. Diese Ideologie beruht auf mehreren Thesen:
+
+<ol>
+    <li>Die Juden sind Gottes auserwähltes Volk oder seine auserwählte Volksgruppe;</li>
+    
+    <li>Gott hat ausschliesslich ihnen das Land Palästina (Eretz Israel) versprochen;</li>
+    
+    <li>Nach zwei Jahrtausenden des Exils müssen sie in diese Heimat „zurückkehren“; und</li>
+    
+    <li>Während dieses Exils blieb Palästina ein „leeres Land“, das auf seine rechtmässigen Erben wartete.</li>
+</ol>
+
+Diese letzte Behauptung leugnet die Existenz und die historische Kontinuität des palästinensischen Volkes und stellt es als vorübergehend anwesende „Araber“ ohne tief verwurzelte Präsenz oder kulturellen Beitrag dar. Die Logik der Ausgrenzung ist in Gesetzen wie dem Gesetz über den jüdischen Nationalstaat aus dem Jahr 2018 (Knesset 2018) sowie in der anhaltenden Verweigerung des palästinensischen Rückkehrrechts verankert (CIE o.D.).
+
+Im Gegensatz dazu begründet <i>der Palästinensismus</i> die Identität auf eine ununterbrochene Beziehung zu dem Land, die sich über mehr als vier Jahrtausende erstreckt, (Masalha 2020), einschliesslich jüdischer Komponenten. Das palästinensische Bewusstsein war historisch gesehen vielschichtig, multireligiös, anpassungsfähig, inklusiv und aufnahmefähig. Seine epistemische Flexibilität entspringt einer tief verwurzelten intellektuellen Struktur, die Schichten verschiedener palästinensischer Stadtstaaten – Palästinas dominierende Regierungsform im Laufe der Geschichte – zusammen mit umfassenderen nationalen, levantinischen und arabischen Schichten inkorporiert (Shibib 2024, 5; siehe Abb. 1).
+
+Darüber hinaus konzeptualisiert Shibib (2024, 2–14; Abb. 4) das palästinensische Bewusstsein als eine für Palästina spezifische Ausprägung des von al-Jabri identifizierten weiter gefassten arabischen Bewusstseins, das drei kognitive Systeme (<i>niẓām maʿrifī</i>) umfasst, die zusammen sowohl die theoretische als auch die politische arabische Vernunft  bilden.
+
+In Palästina existieren Judentum, Christentum und Islam seit langem innerhalb eines gemeinsamen religiös-kulturellen Kontinuums, das nur kurzzeitig durch historische Umwälzungen unterbrochen wurde. Die Mehrheit der heutigen palästinensischen Muslime sind Nachkommen palästinensischer Christen, die ihre Abstammung wiederum auf frühere jüdische und indigene Traditionen zurückführen. Die islamische Toleranz , wie sie sich in seinen heiligen Texten widerspiegelt, verstärkt diese pluralistische Kontinuität noch weiter.
+
+Aufgrund seiner einzigartigen geostrategischen Lage an der Schnittstelle von Kontinenten und Reichen fungierte Palästina historisch gesehen als kultureller Knotenpunkt und „Schmelztiegel“. Es integrierte Migranten und Eroberer gleichermassen und wandelte vielfältige <i>„jus sanguinis“</i> (Blutsrecht)-Zugehörigkeiten in eine auf  dem Land <i>„jus soli“</i> (Bodenrecht) basierende Identität . Diese Aufnahmekapazität erstreckte sich auf Babylonier, Assyrer, Ägypter, Perser, Hethiter, Nabatäer, Kreuzritter und Araber. In jeder Epoche passte  Palästina seine  sprachliche und religiöse Zusammensetzung an (Shibib 2021, 23) und verkörperte damit eine dynamische epistemische Resilienz, die sein kollektives Bewusstsein bis heute prägt.
+
+(Abbildung einfügen: Schichten des arabisch-palästinensischen Bewusstseins vor der Nakba)
+
+<h2 class="subtitle">III. Spaltungen, Veränderungen, Verluste und Gewinne</h2>
+
+
+<h3 class="subsubtitle">Die palästinensische Nakba , Zerstreuung und die Entwicklung des palästinensischen epistemischen Systems </h3>
+
+Die <b>palästinensische Nakba von 1948</b> zersplitterte die palästinensische Bevölkerung in neun isolierte demografische Cluster, was zu erheblichen Verlusten kritischer epistemischer Komponenten und Denksysteme führte.
+
+Abbildung 3: Palästinas geopolitische und epistemische Spaltungen, Transformationen, Verluste und Gewinne. Geografische Spaltungen werden unterschiedlich  dargestellt; Jerusalem wird getrennt vom Westjordanland betrachtet.
+
+Über das kollektive physische  und  psychische Trauma hinaus – einschliesslich Krieg, Zerstörung, Tötungen, ethnischer Säuberung und des Verlusts nationaler Identitätsdokumente –verlor der palästinensische epistemische Rahmen seine Kontinuität und Kohäsion. Der kulturelle Kontext, der dieses Denksystem stützte,  wurde unterbrochen, wodurch eine universalistische kognitive Regeneration unmöglich wurde.. Gleichzeitig begannen  palästinensische MigrantengemeinschaftenElemente aus den Kulturen der dominanten Aufnahmegesellschaften zu übernehmen  – ein Prozess, der bis heute andauert.
+
+Schon vor der Nakba veränderte sich die demografische Zusammensetzung Palästinas. Jüdische Migranten aus Osteuropa trafen ab etwa 1880 ein  und erhöhten  allmählich den Anteil  – sowohl arabisch- als auch nicht-arabischsprachiger – palästinensischer Juden im Verhältnis zu anderen Gruppen (Jewish Virtual Library o.D.). Gleichzeitig begann  die palästinensische Migration nach Lateinamerika, vor allem durch Christen, und erreichte 1908 ihren Höhepunkt, setzte sich während des britischen Mandats fort, wobei die Aufrechterhaltung der Verbindungen zur Heimat durch die  britische Politik, die die jüdische Migration begünstigte, eingeschränkt war. Dieser Prozess führte zur Gründung der grössten palästinensisch-christlichen Gemeinde in Chile.
+
+Während die jüdische Einwanderung und die Entstehung von vorstaatlichen jüdischen Strukturen (Yishuv) zur allmählichen Erosion der palästinensisch-arabischsprachigen jüdischen Identität zugunsten des politischen Zionismus beitrugen, schwächte die Auswanderung von Christen die christliche Komponente des palästinensischen Erkenntnissystems. Zudem schlossen sich einige palästinensische Drusen den  zionistischenBewegungen an. Diese demografischen und ideologischen Verschiebungen schwächten die historische multireligiöse palästinensische Identität und die palästinensischen Denksysteme. Unter diesen Umständen spaltete die Nakba die verbleibende palästinensische Mehrheit weiter auf – unter Ausschluss der palästinensischen Juden und durch den Rückgang der christlichen Komponenten – und teilte sie in isolierte Bevölkerungsinseln auf.
+
+ 
+
+<h2 class="subtitle">IV. Kräfte und Prozesse, die das palästinensische Bewusstsein prägen</h2>
+
+<h3 class="subsubtitle">Zentripetale kollektive Ereignisse</h3>
+
+Die folgenden Ereignisse werden als zentripetal bezeichnet, da sie eine gemeinsame Identität förderten, den sozialen Zusammenhalt stärkten oder das kollektive Gedächtnis der gesamten palästinensischen Bevölkerung festigten. Sie sind kollektiv, da sich ihre Auswirkungen weitreichend über Gemeinschaften und Generationen erstreckten.
+
+<ul class="dashlist">
+
+    <li>
+        <h5>1750–1775: Zahir al-‘Umar</h5>
+        
+        Zahir al-‘Umar, ein lokaler arabischer Herrscher in Galiläa während der osmanischen Zeit, stärkte die regionale Regierungsführung, förderte Handelsnetzwerke und verteidigte die lokale Autonomie. Seine Führung festigte den politischen Zusammenhalt und die wirtschaftliche Stabilität und trug so zur kollektiven Identität im Norden Palästinas bei (Joudah 2014).
+    </li>
+    
+    <li>
+        <h5>1799: Widerstand gegen Napoleon in Akka</h5>
+        
+        Die erfolgreiche Verteidigung von Akka (Acre) gegen Napoleons Truppen vereinte verschiedene palästinensische und osmanische Kräfte. Dieses Ereignis diente als kollektives Erlebnis von militärischer Widerstandsfähigkeit und Stolz und stärkte die soziale Solidarität sowie das Gefühl eines gemeinsamen Schicksals.
+    </li>
+    
+    <li>
+        <h5>1834: Bauernaufstand gegen Mohammed Ali</h5>
+        
+        Palästinensische Bauern erhoben sich gegen die ägyptische Wehrpflicht und die Steuerpolitik unter Mohammed Ali. Obwohl der Aufstand letztendlich niedergeschlagen wurde, förderte er die gemeinschaftliche Solidarität, ein gemeinsames politisches Bewusstsein und das Bewusstsein für gemeinsame soziale Missstände (Safi 2008).
+    </li>
+    
+    <li>
+        <h5>Ende des 19. – Anfang des 20. Jahrhunderts: Massenauswanderung nach Lateinamerika</h5>
+        
+        Die Auswanderung überwiegend christlicher Palästinenser führte zur Entstehung von Diasporagemeinschaften, die im Ausland ihren kulturellen Zusammenhalt bewahrten. Dieser Prozess stärkte die kollektive Identität durch den Aufbau von Unterstützungsnetzwerken, gemeinschaftlichen Institutionen und fortbestehenden Verbindungen zur Heimat.
+    </li>
+    
+    <li>
+        <h5>1916 –1917: Sykes-Picot-Abkommen</h5>
+        
+        Das geheime Abkommen zwischen Grossbritannien und Frankreich teilte die osmanisch-arabischen Gebiete, darunter Palästina, in Einflusssphären auf. Das Bewusstsein für diese von aussen auferlegte Teilung trug zur Entstehung eines gemeinsamen politischen Bewusstseins und zum Widerstand gegen ausländische Kontrolle bei (Britannica o.D. -a).
+    </li>
+    
+    <li>
+        <h5>1917: Balfour-Erklärung</h5>
+        
+        Die britische Erklärung zur Unterstützung einer „jüdischen Heimstätte“ in Palästina löste eine kollektive Reaktion unter den Palästinensern aus, förderte die Entstehung früher nationalistischer Organisationen und stärkte das Bewusstsein für einen gemeinsamen politischen Kampf (Britannica o. J. -b).
+    </li>
+    
+    <li>
+        <h5>1922 –1929: Aufstände gegen die britische Besatzung und die zionistische Besiedlung</h5>
+        
+        Wiederholte Aufstände gegen die britischen Mandatsbehörden und zunehmende jüdische Besiedlung stärkten die kollektive Identität, das politische Bewusstsein und die Vorstellung von einer gemeinsamen Heimat, die von äusseren Kräften bedroht war.
+    </li>
+    
+    <li>
+        <h5>1936–1939: Der Grosse Palästinensische Aufstand</h5>
+        
+        Der Aufstand gegen die britische Kolonialpolitik und die jüdische Besiedlung war von einer breiten Beteiligung geprägt und mobilisierte sowohl ländliche als auch städtische Gemeinschaften. Er stärkte den kollektiven Widerstand, die gemeinschaftliche Solidarität und den Aufbau politischer Netzwerke.
+    </li>
+    
+    <li>
+        <h5>1948: Die palästinensische Nakba</h5>
+        
+        Die Nakba, zu Deutsch „Katastrophe“, führte zu Massenvertreibungen, zum Verlust von Eigentum und zur Spaltung der palästinensischen Gesellschaft. Trotz ihrer verheerenden Folgen stärkte das gemeinsame Trauma das nationale Identitätsgefühl und das kollektive Gedächtnis, das über Generationen hinweg fortbesteht.
+    </li>
+    
+    <li>
+        <h5>1967: Naksa</h5>
+        
+        Die israelische Besetzung der Westbank und des Gazastreifens festigte das palästinensische Bewusstsein für die gemeinsame Enteignung weiter, gab der politischen Organisation neue Impulse und stärkte das kollektive Gedächtnis an Verlust und Widerstand.
+    </li>
+    
+    <li>
+        <h5>1968: Palästinensischer Nationalpakt</h5>
+        
+        Die formelle Formulierung der politischen Ziele der Palästinenser im Pakt vereinte verschiedene Fraktionen unter einer gemeinsamen nationalistischen Ideologie und stärkte so den politischen Zusammenhalt und die Identität.
+    </li>
+    
+    <li>
+        <h5>1970: Gründung der Universität Hebron</h5>
+        
+        Die Gründung der ersten palästinensischen Universität förderte die intellektuelle Entwicklung und die kollektive Bildungsidentität und schuf einen Mittelpunkt für kulturellen und politischen Zusammenhalt.
+    </li>
+    
+    <li>
+        <h5>1977–1979: Ägyptisch-israelischer Friedensprozess</h5>
+        
+        Das Bewusstsein der Palästinenser für die regionalen Friedensverhandlungen und ihre Ausgrenzung aus den Entscheidungsprozessen stärkte die kollektive Identität und das gemeinsame Gefühl der Marginalisierung.
+    </li>
+    
+    <li>
+        <h5>1978: Gründung der Islamischen Universität von Gaza</h5>
+        
+        Die Schaffung einer Hochschule in Gaza förderte den lokalen intellektuellen und kulturellen Zusammenhalt und bot eine Plattform für die gemeinschaftliche Entwicklung und die Bewahrung von Wissen.
+    </li>
+    
+    <li>
+        <h5>1982: Israelische Invasion im Libanon und Zerschlagung der militärischen Präsenz der PLO</h5>
+        
+        Die Invasion und die Vertreibung der PLO stärkten die Solidarität unter den Palästinensern über geografische Grenzen hinweg und festigten das gemeinsame politische Bewusstsein.
+    </li>
+    
+    <li>
+        <h5>1987: Erste Intifada</h5>
+        
+        Der massive zivile Widerstand im Westjordanland und im Gazastreifen mobilisierte Palästinenser aller Klassen, Altersgruppen und Geschlechter und stärkte den sozialen Zusammenhalt sowie das kollektive Handeln gegen die Besatzung.
+    </li>
+    
+    <li>
+        <h5>1990–1991: Erster Golfkrieg und Zusammenbruch des Sowjetblocks</h5>
+        
+        Globale politische Umwälzungen wirkten sich auf die palästinensische Migration und die Gemeinschaften der Diaspora aus und stärkten die gemeinsame Identität durch gemeinsame Erfahrungen politischer Unsicherheit und Vertreibung.
+    </li>
+    
+    <li>
+        <h5>1993: Oslo-Abkommen und Gründung der Palästinensischen Autonomiebehörde</h5>
+        
+        Das Oslo-Abkommen formalisierte die politische Vertretung der Palästinenser, förderte kollektive Hoffnung und politische Mobilisierung und vereinte die Gemeinschaften unter neuen Verwaltungsstrukturen.
+    </li>
+    
+    <li>
+        <h5>2000: Einheitlicher palästinensischer Lehrplan</h5>
+        
+        Der im Westjordanland und im Gazastreifen eingeführte Lehrplan vereinheitlichte das Bildungswesen, festigte die kollektive kulturelle Identität und stärkte gemeinsame epistemische Rahmenbedingungen.
+    </li>
+    
+    <li>
+        <h5>2000: Zweite palästinensische Intifada</h5>
+        
+        Der erneute Widerstand gegen die Besatzung mobilisierte die Palästinenser in grossem Umfang und stärkte das kollektive Gedächtnis, die Identität und die Solidarität über verstreute Gemeinschaften hinweg.
+    </li>
+    
+    <li>
+        <h5>2007: Spaltung des Gazastreifens und der Westbank infolge des Konflikts zwischen Hamas und Fatah</h5>
+    </li>
+
+</ul>
+
+Die politische Spaltung stellte den Zusammenhalt auf die Probe, unterstrich jedoch zugleich die gemeinsame Identität durch kollektive Erfahrungen von Konflikt und Überleben unter unterschiedlichen Verwaltungsbehörden.
+
+ 
+
+<h3 class="subsubtitle">Zentrifugale, gemeinschaftsspezifische Ereignisse</h3>
+
+Während die zentripetalen kollektiven Ereignisse das gemeinsame Gedächtnis und den nationalen Zusammenhalt förderten, wirkten die zentrifugalen, gemeinschaftsspezifischen Ereignisse in die entgegengesetzte Richtung. Diese politischen, geografischen und sozialen Entwicklungen zersplitterten das palästinensische Volk in unterschiedliche Gemeinschaften, die unter divergierenden Regierungssystemen, rechtlichen Rahmenbedingungen und kulturellen Umfeldern lebten. Sie formten das kollektive Denken und die Wissenssysteme neu, indem sie getrennte epistemische, sprachliche und gesellschaftspolitische Erfahrungen hervorbrachten. Über fast acht Jahrzehnte hinweg vertieften diese Prozesse die demografischen und ideologischen Unterschiede, schwächten die physische und kulturelle Einheit des palästinensischen Bewusstseins und führten gleichzeitig zu vielfältigen Formen kultureller Anpassung und Resilienz.
+
+Die Analyse zentrifugaler Ereignisse konzentriert sich auf die neun grossen palästinensischen Bevölkerungscluster oder „Bevölkerungsinseln“. Jede davon entwickelte aufgrund unterschiedlicher historischer Verläufe, Beziehungen zum Aufnahmestaat und soziokultureller Rahmenbedingungen eigene Identitätsmerkmale, Institutionen und epistemische Umfelder. Das Verständnis dieser Gemeinschaften erfordert detaillierte historische und ethnografische Untersuchungen, da ihre Erfahrungen sowohl die Zersplitterung als auch die kreative Anpassung innerhalb der umfassenderen palästinensischen Geschichte widerspiegeln.
+
+<h4>1. Die palästinensisch-arabische Minderheit in Israel (PAMI)</h4>
+
+Nach der Nakba war die PAMI einer militärischen Abriegelung ausgesetzt (1948–1960), lebte unter mehr als 65 diskriminierenden Gesetzen (Adalah o. J.) und bewohnte im Verhältnis zur israelischen Bevölkerung einen schrumpfenden Landanteil. Etwa 87 % lebten in 107 arabischen Ballungszentren, 8 % in gemischten Gebieten und der Rest in Dörfern, die vom Staat noch nicht anerkannt waren (Ghanem und Mustafa 2011). Weitere Landenteignungen und institutionelle Diskriminierung belasteten die PAMI-Gemeinschaften zusätzlich (Bokae’e 2003). Zu den bekanntesten Massakern zählt das von Kufr Qasim (1956), und 1976 kam es zur gewaltsamen Niederschlagung von Protesten.
+
+Die Besetzung von 1967 belebte vorübergehend die panpalästinensische Identität, soziale Kontakte und familiäre Beziehungen im gesamten historischen Palästina wieder. Der Osloer Friedensprozess beschränkte den Staatsaufbau jedoch auf die Westbank und den Gazastreifen, was dazu führte, dass sich die PAMI zunehmend als Minderheit innerhalb Israels identifizierten. Zu den frühen Formen politischer Beteiligung zählten die Kommunistische Partei Israels mit Persönlichkeiten wie Taufiq Ziad und Emil Habeebi sowie die Nach-Nakba-Dichter Mahmoud Darwish und Samih al-Qasim (Darraj o. J.). Später gewannen nationale und islamische politische Bewegungen an Dominanz, einschliesslich einer Spaltung in nördliche und südliche islamische Bewegungen.
+
+Der Unterricht in der Primar- und Sekundarstufe findet auf Arabisch statt, während die Hochschulbildung auf Hebräisch und Englisch erfolgt. Zunehmend studieren PAMI an Universitäten in den besetzten palästinensischen Gebieten, darunter in Jenin und Hebron, sowie im Ausland (Shibib 2021).
+
+ 
+
+<h4>2. Die palästinensische Gemeinschaft in der Westbank</h4>
+
+Nach der Nakba von 1948 wurde die Westbank von Jordanien annektiert (1949–1950). Obwohl die palästinensische Staatlichkeit formal verloren ging, erhielten Flüchtlinge und Bürger die gleiche Staatsbürgerschaft. Diese Einheit wurde durch die israelische Besetzung im Jahr 1967, den Aufstieg der PLO und den Rückzug Jordaniens im Jahr 1988 unterbrochen.
+
+Der Oslo-Friedensprozess teilte die Westbank in die Zonen A, B und C auf (Britannica o. J. -c). Ostjerusalem wurde isoliert und 1980 von Israel annektiert. Eskalierende Gewalt, die Ausweitung der Siedlungen und Kontrollpunkte schufen „Bantustan“-ähnliche Verhältnisse. Über 700.000 Siedler lebten in 279 israelischen Siedlungen, darunter 14 in Ostjerusalem. Der Unterricht findet hauptsächlich auf Arabisch statt, wobei Englisch als Zweitsprache dient.
+
+Zwischen 1967 und 2021 wurden etwa eine Million Palästinenser aus der Westbank und dem Gazastreifen inhaftiert, darunter 55.000 Kinder.
+
+ 
+
+<h4>3. Die palästinensische Bevölkerung im Gazastreifen</h4>
+
+Der Gazastreifen, in dem auf einer Fläche von 363 km² etwa 2,4 Millionen Menschen leben, wurde nach 1948 zu einem Hauptflüchtlingsgebiet, in dem 70 % der Bevölkerung lebten. Der Gazastreifen erlebte wiederholte israelische Einfälle und Besetzungen (1956–1957; Juni 1967).
+
+Der ägyptisch-israelische Friedensprozess von 1978 wirkte sich auf das Bildungswesen und die Regierungsführung der PLO im Gazastreifen aus und fiel mit der Gründung der Islamischen Universität von Gaza sowie weiterer Hochschuleinrichtungen zusammen. Der Gazastreifen erlebte 1987 die erste Intifada und im Jahr 2000 die zweite. Der einzige Flughafen wurde 2002 zerstört (Brilliant 2002). Israel zog sich 2006 zurück, während die Hamas in diesem Jahr die Wahlen gewann. Die Blockade begann 2007 und schränkte den Personen- und Warenverkehr ein, sodass der Grenzübergang Rafah zu Ägypten als einzige teilweise geöffnete Grenze übrig blieb. Es entstanden Tunnelnetze, um die Auswirkungen der Blockade abzumildern. Der Unterricht findet auf Arabisch statt, wobei Englisch die Hauptsprache für naturwissenschaftliche Fächer und im Hochschulbereich ist.
+
+ 
+
+<h4>4. Die palästinensische Gemeinschaft im Libanon</h4>
+
+Die palästinensischen Flüchtlinge im Libanon stammten vor allem aus Jaffa, Haifa, Akko und Galiläa und waren überwiegend sunnitische Muslime. Durch feindselige politische Massnahmen wurden ihnen der Zugang zu Bildung, Beschäftigung und Eigentum eingeschränkt. Die UNRWA bietet Grundschulbildung und in begrenztem Umfang Sekundarschulbildung an. Die politische Integration unterlag Schwankungen; die Präsenz der PLO war von 1968 bis 1982 legalisiert. Der Bürgerkrieg (1975–1990) und die israelische Invasion (1982) führten zu massiven Vertreibungen und Massakern (Sabra und Shatila). Die UNRWA betreut etwa 248.000 Palästinenser im Libanon und stellt Bildungs-, Gesundheits- und Sozialdienste bereit. Der Unterricht findet auf Arabisch statt, wobei Englisch als Zweitsprache unterrichtet wird.
+
+ 
+
+<h4>5. Die palästinensische Gemeinschaft in Syrien</h4>
+
+Etwa 95.000 Palästinenser zogen nach 1948 nach Syrien, sie stammten hauptsächlich aus Safed, Tiberias, Haifa und Akka. Die syrischen Gesetze gewährten den Flüchtlingen Arbeits-, Sozial- und Militärrechte (Gesetz 450 aus dem Jahr 1949; Gesetz 260 aus dem Jahr 1956; Gesetz 1311 aus dem Jahr 1963). Die Allgemeine Verwaltung für palästinensisch-arabische Flüchtlingen (General Administration for Palestinian Arab Refugees, GAPAR<a href="#fn1" id="fn1back" class="backlink"><sup>i</sup></a>)  verwaltete Flüchtlingslager, wobei Yarmouk der grösste Komplex war. Konflikte und Belagerungen durch die Regierung führten zu grossflächigen Vertreibungen. Die UNRWA betreibt 104 Schulen, die 45.000 Schüler unterrichten. Der Unterricht findet auf Arabisch statt, im Hochschulbereich auf Englisch (Abdel Latif 2023).
+
+ 
+
+<h4>6. Die palästinensische Gemeinschaft in Jordanien</h4>
+
+Jordanien beherbergt 2,39 Millionen registrierte palästinensische Flüchtlinge und ist das grösste Einsatzgebiet der UNRWA. Die meisten besitzen die jordanische Staatsangehörigkeit, die ihnen nach der Nakba oder zwischen 1948 und 1967 verliehen wurde (jordanisches Staatsangehörigkeitsgesetz von 1954). In den Lagern werden Bildung und Gesundheitsversorgung durch die UNRWA bereitgestellt. Überweisungen sind für die wirtschaftliche Stabilität von entscheidender Bedeutung, insbesondere seit dem Golfkrieg von 1990–1991.
+
+ 
+
+<h4>7. Die palästinensische Gemeinschaft in den Staaten des Golf-Kooperationsrats (GCC)</h4>
+
+Die palästinensische Migration in die GCC-Staaten erfolgte in drei Wellen: während des Ölbooms, nach dem Krieg von 1967 und im Anschluss an den libanesischen Bürgerkrieg. Bei den Migranten handelte es sich in erster Linie um Arbeitskräfte; die Familienzusammenführung folgte später (Schulz und Hammer 2021; Rouleau 1985). Geldüberweisungen sind nach wie vor eine bedeutende Einnahmequelle für Palästinenser unter Besatzung im historischen Palästina und in Flüchtlingsgemeinschaften.
+
+ 
+
+<h4>8. Die palästinensischen Gemeinschaften in Europa und Nordamerika</h4>
+
+Die Gemeinschaften in Europa und Nordamerika sind weit verstreut. Schätzungen zur Bevölkerungszahl lauten für Grossbritannien 60.000 (2017), für die Vereinigten Staaten 236.000 (2005) (Abuamer 2021). Zu den Schätzungen für Europa (2001) gehören 80.000 in Deutschland, 50.000 in Skandinavien, 12.000 in Spanien, 5.000 in Frankreich, 4.000 in Griechenland, 20.000 in den sonstigen Ländern (Shiblak 2005). Die palästinensische Interessenvertretung steht vor rechtlichen und politischen Herausforderungen.
+
+ 
+
+<h4>9. Die palästinensische Gemeinschaft in Südamerika</h4>
+
+Die Migration vorwiegend palästinensischer Christen begann im späten 19. Jahrhundert. Schätzungen zur Zahl der Palästinenser in Lateinamerika reichen von 500.000 bis zu über 1,1 Millionen, wobei der Schwerpunkt in Chile liegt (Aljamal und Amour 2020; Baeza 2014). Palästinenser trugen zur Entwicklung von Handel und Industrie bei, gründeten Kirchen und soziale Organisationen und bewahrten eine starke kollektive Identität.
+
+Diese neun zentrifugalen Prozesse hatten tiefgreifende epistemische Auswirkungen. Die Anpassung jeder Gemeinschaft an unterschiedliche politische, sprachliche und wirtschaftliche Umfelder führte zur Bildung separater Denksysteme – Variationen palästinensischen Wissens, eingebettet in unterschiedliche Aufnahmekontexte. Zusammen veranschaulichen sie, wie Fragmentierung und Kontinuität nebeneinander bestehen: Die Zerstreuung des palästinensischen Volkes schwächte sein kollektives Bewusstsein und diversifizierte es zugleich, wodurch pluralistische epistemische Identitäten innerhalb einer gemeinsamen historischen Erzählung entstanden.
+
+ 
+
+<h3 class="subsubtitle">Zentrale Faktoren, die palästinensische Wissenssysteme beeinflussen</h3>
+
+<h4>1. Regierungsführung</h4>
+
+Die Palästinenser unterliegen der Regierungsgewalt von neun Rechtsordnungen, wobei fünf davon den Grossteil der Bevölkerung beherbergen: Israel, Jordanien, Libanon, Syrien und Chile. Unterschiede in der Regierungsführung prägen den Zugang zu sozialen Institutionen, Bildung und Märkten. Die UNRWA stellt in den Lagern grundlegende Dienstleistungen bereit, darunter Bildung, Gesundheitsversorgung und soziale Unterstützung.
+
+<h4>2. Sprache</h4>
+
+Arabisch ist von zentraler Bedeutung für Identität und epistemischen Zusammenhalt. Der Unterricht findet überwiegend auf Arabisch statt, wobei Englisch als Zweitsprache im Hochschulbereich dient. Der Sprachwechsel in Diasporagemeinschaften trägt zur Identitätswandlung bei.
+
+<h4>3. Zeit/Epoche</h4>
+
+Der historische Kontext – einschliesslich der Nakba, des Panarabismus, der Ölwirtschaften und der globalen geopolitischen Dynamiken – beeinflusst Migration, Akkulturation und die Entwicklung von Wissenssystemen.
+
+ 
+
+<h3 class="subsubtitle">Palästina neu kommunizieren</h3>
+
+Globale Fortschritte in den Bereichen Digitalisierung und Verkehr erleichtern die erneute Kommunikation zwischen verstreuten palästinensischen Gemeinschaften. Im Jahr 2018 besassen 82 % der palästinensischen Haushalte Smartphones, 65 % hatten Internetzugang und 37 % verfügten über Computer. Die Vernetzung ermöglicht es den Diaspora-Gemeinschaften, die Ereignisse in Gaza und anderen Gebieten zu verfolgen, was globale Solidarität und kollektives Handeln fördert.
+
+ 
+
+<h2 class="subtitle">Schlussfolgerungen</h2>
+
+Die palästinensische Bevölkerung ist heute nach wie vor in neun unterschiedliche epistemische Inseln zersplittert, die jeweils von einzigartigen soziopolitischen Realitäten, sprachlichen Umfeldern und historischen Entwicklungen geprägt sind. Diese Zersplitterung hat zu divergierenden Formen der Wissensproduktion, lokalisierten kulturellen Bezugspunkten und unterschiedlichen Auffassungen von kollektiver Identität geführt.
+
+Historisch gesehen waren Kommunikation und Interaktion zwischen diesen epistemischen Inseln durch geografische Trennung, koloniale Grenzen und später durch Besatzungsregimes eingeschränkt, die Mobilität und Austausch einschränkten. Die daraus resultierende Isolation trug zur Entstehung vielfältiger Teilidentitäten regionaler, religiöser, sprachlicher und klassenbezogener Art bei, die die ungleiche Verteilung von Macht und Ressourcen innerhalb der palästinensischen Gesellschaft sowohl widerspiegelten als auch verstärkten.
+
+Jüngste Fortschritte in den Bereichen Verkehr, digitale Kommunikation und transnationale Mobilität haben jedoch begonnen, diese epistemischen Beziehungen neu zu gestalten. Das rasante Wachstum von Online-Plattformen, digitaler Bildung und Diaspora-Netzwerken hat neue Räume für Kontakt und Dialog zwischen zuvor voneinander getrennten palästinensischen Gemeinschaften geschaffen. Diese Entwicklungen bergen das Potenzial, Prozesse der kulturellen Konvergenz und Akkulturation neu zu beleben und so eine gemeinsame intellektuelle Produktion sowie das Wiederaufleben einer mehrsprachigen, multireligiösen und global vernetzten palästinensischen Identität zu ermöglichen (Shibib 2024).
+
+Vor diesem Hintergrund könnte die gegenwärtige Zeit einen entscheidenden epistemologischen Wendepunkt darstellen – einen, in dem technologische Vernetzung und kollektives Gedächtnis dazu beitragen können, historische Fragmentierung zu überwinden und ein pluralistisches, aber dennoch kohärentes palästinensisches Wissenssystem wiederaufzubauen, das in der Lage ist, seine eigene Modernität zu artikulieren.
+
+ 
+
+<h2 class="subtitle">Literaturangaben: </h2>
+
+<div class="bibliography">
+
+Abdel Latif, Muhammad. M. M., und Majed M. Alhamad. 2023. “Arabicization or Englishization of Higher Education in the Arab World? Controversies, Policies and Realities.” <i>Frontiers in Psychology</i> 14 (February 2023): 1093488. <a href="https://doi.org/10.3389/fpsyg.2023.1093488" target="_blank">https://doi.org/10.3389/fpsyg.2023.1093488</a>.
+    
+Abuamer, Majed. 2021. “Palestinians Worldwide: A Demographic Study (Review).” <i>AlMuntaqa</i>  9. <a href="https://almuntaqa.dohainstitute.org/en/issue009/Documents/almuntaqa-09-2021-abuamer.pdf" target="_blank">https://almuntaqa.dohainstitute.org/en/issue009/Documents/almuntaqa-09-2021-abuamer.pdf</a>.
+    
+Adalah. O. J. “Discriminatory Laws Database.” <a href="https://www.adalah.org/en/content/view/7771" target="_blank">https://www.adalah.org/en/content/view/7771</a>.
+
+Ahmed, Irfan. 2023. “If Warsaw Ghetto in 1943 Enacted an Uprising and Not Terrorism, So Did Gaza in 2023.” <i>TRT World.</i> <a href="https://www.trtworld.com/opinion/if-warsaw-ghetto-in-1943-enacted-an-uprising-and-not-terrorism-so-did-gaza-in-2023-15671465" target="_blank">https://www.trtworld.com/opinion/if-warsaw-ghetto-in-1943-enacted-an-uprising-and-not-terrorism-so-did-gaza-in-2023-15671465</a>.
+
+Al Jabri, Mohammed Abed. 2016. <i>al-ʿAql al-ʾakhlāqī al-ʿarabī (The Arab Ethical Reason)</i>. Beirut: CAUS.
+
+———. 2017a. <i>Takwīn al-ʿaql al-ʿarabī (The Formation of Arab Reason)</i>. Beirut: CAUS.
+
+———. 2017b. <i>Bunya al-ʿaql al-ʿarabī (The Structure of Arab Reason)</i>. Beirut: CAUS.
+
+———. 2017c. <i>al-ʿAql al-siyāsī al-ʿarabī (The Arab Political Reason)</i>. Beirut: CAUS.
+
+Alba, Richard, und Jacob Stowell. 2007. “Linguistic Assimilation across the Generations: An Analysis of Home Language among Second- and Third-Generation Children from Contemporary Immigrant Groups.” <a href="https://paa2007.populationassociation.org/papers/7138" target="_blank">https://paa2007.populationassociation.org/papers/7138</a>.
+
+Aljamal, Yousef M., und Philipp O. Amour. 2020. “Palestinian Diaspora Communities in Latin America and Palestinian Statehood.” <i>Journal of Holy Land and Palestine Studies</i> 19 (1): 101–20. <a href="https://doi.org/10.3366/hlps.2020.0230" target="_blank">https://doi.org/10.3366/hlps.2020.0230</a>.
+
+Arab News. 2024. “Worse than Dresden 1945: Israel’s Gaza Rampage Leaves 75% of Buildings Damaged or Destroyed.” <a href="https://www.arabnews.com/node/2506171/amp" target="_blank">https://www.arabnews.com/node/2506171/amp</a>.
+
+Baeza, Cecilia. 2014. “Palestinians in Latin America: Between Assimilation and Long-Distance Nationalism.” Journal of Palestine Studies 43 (2): 59–72. <a href="https://doi.org/10.1525/jps.2014.43.2.59" target="_blank">https://doi.org/10.1525/jps.2014.43.2.59</a>.
+
+Bartashevich, Jacob P., und S. Mostaghim. 2021. “Multi-Featured Collective Perception with Evidence Theory: Tackling Spatial Correlations.” <i>Swarm Intelligence</i> 15: 83–110. <a href="https://doi.org/10.1007/s11721-021-00192-8" target="_blank">https://doi.org/10.1007/s11721-021-00192-8</a>.
+
+Beim, Aaron. 2007. “The Cognitive Aspects of Collective Memory.” <i>Symbolic Interaction</i> 30 (1): 7–26. <a href="https://doi.org/10.1525/si.2007.30.1.7" target="_blank">https://doi.org/10.1525/si.2007.30.1.7</a>.
+
+Bokae’e, Nihad. 2003. “Palestinian Internally Displaced Persons inside Israel: Challenging the Solid Structure.” <i>BADIL Resource Center Working Paper.</i> <a href="https://badil.org/phocadownload/Badil_docs/Working_Papers/Palestinian.IDPs.pdf" target="_blank">https://badil.org/phocadownload/Badil_docs/Working_Papers/Palestinian.IDPs.pdf</a>.
+
+Breslawski, Jori, und Carlo Koos. 2025. "Israelis Have a Skewed View on Extent of Gaza's Hunger Plight − Driven by Censorship and Media That Downplay Humanitarian Crisis." The Conversation, May 22, 2025. <a href="https://theconversation.com/israelis-have-a-skewed-view-on-extent-of-gazas-hunger-plight-driven-by-censorship-and-media-that-downplay-humanitarian-crisis-257201" target="_blank">https://theconversation.com/israelis-have-a-skewed-view-on-extent-of-gazas-hunger-plight-driven-by-censorship-and-media-that-downplay-humanitarian-crisis-257201</a>.
+
+Brilliant, S. 2002. Gaza: History and Conflict. Tel Aviv: Middle East Press.
+
+Britannica.o. J. -a.“The Sykes-Picot Agreement (1916).” <a href="https://www.britannica.com/event/Sykes-Picot-Agreement" target="_blank">https://www.britannica.com/event/Sykes-Picot-Agreement</a>.
+
+———.o. J. – b. “Balfour Declaration (1917).” <a href="https://www.britannica.com/event/Balfour-Declaration" target="_blank">https://www.britannica.com/event/Balfour-Declaration</a>.
+
+———.o. J. – c.“The Oslo Accords (1993).” <a href="https://www.britannica.com/topic/Oslo-Accords" target="_blank">https://www.britannica.com/topic/Oslo-Accords</a>.
+
+Brünker, Felix, Fabian Deitelhoff, und Milad Mirbabaie. 2019. “Collective Identity Formation on Instagram: Investigating the Social Movement Fridays for Future.” <i>ACIS Proceedings</i>. <a href="https://arxiv.org/pdf/1912.05123" target="_blank">https://arxiv.org/pdf/1912.05123</a>.
+
+Chao-Fong, Léonie. 2025. “Donald Trump’s Gaza Plan: The Key Takeaways.” February 5, 2025. <a href="https://www.theguardian.com/world/2025/feb/05/donald-trump-gaza-strip-plan-take-over-move-palestinians-ownership" target="_blank">https://www.theguardian.com/world/2025/feb/05/donald-trump-gaza-strip-plan-take-over-move-palestinians-ownership</a>.
+
+CIE (Center for Israel Education).o:D. “Israel’s Law of Return (1950; amended 1954, 1970).” <a href="http://knesset.gov.il/laws/special/eng/return.htm" target="_blank">http://knesset.gov.il/laws/special/eng/return.htm</a>.
+
+Cole, Nicki Lisa. 2023. “The Concept of Collective Consciousness.” <i>ThoughtCo</i>, April 5. <a href="https://www.thoughtco.com/collective-consciousness-definition-3026118" target="_blank">https://www.thoughtco.com/collective-consciousness-definition-3026118</a>.
+
+Cordonnier, Aline, Valérie Rosoux, Anne-Sophie Gijs, und Olivier Luminet. 2022. “Collective Memory: An Hourglass between the Collective and the Individual.” <i>Memory, Mind & Media</i> (Glasgow) 1 (January 2022): e8. <a href="https://doi.org/10.1017/mem.2022.1" target="_blank">https://doi.org/10.1017/mem.2022.1</a>.
+
+Durkheim, Émile. 1933. <i>The Division of Labor in Society</i>. Translated by George Simpson. Glencoe, IL: Free Press. <a href="https://ia601408.us.archive.org/14/items/in.ernet.dli.2015.233884/2015.233884.The-Division.pdf" target="_blank">https://ia601408.us.archive.org/14/items/in.ernet.dli.2015.233884/2015.233884.The-Division.pdf</a>.
+
+———. 1915. <i>The Elementary Forms of Religious Life.</i> <a href="https://archive.org/details/elementaryformso1915durk" target="_blank">https://archive.org/details/elementaryformso1915durk</a>.
+
+Elgin, Duane. 1997. “Collective Consciousness and Cultural Healing.” <i>Millennium Project.</i> <a href="https://www.researchgate.net/publication/313755994_Collective_Consciousness_and_Cultural_Healing" target="_blank">https://www.researchgate.net/publication/313755994_Collective_Consciousness_and_Cultural_Healing</a>.
+
+Foucault, Michel. 1970. <i>The Order of Things: An Archaeology of the Human Sciences</i>. <a href="http://www.naturalthinker.net/trl/texts/Foucault,Michel/Foucault,%20Michel%20%20The%20Order%20of%20Things.pdf" target="_blank">http://www.naturalthinker.net/trl/texts/Foucault,Michel/Foucault,%20Michel%20%20The%20Order%20of%20Things.pdf</a>.
+
+———. 1972. <i>The Archaeology of Knowledge.</i> <a href="https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf" target="_blank">https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf</a>.
+
+Freedman, Lawrence D. 2025. “The Age of Forever Wars.” <i>Foreign Affairs</i>, April 2025. <a href="https://www.foreignaffairs.com/age-forever-wars" target="_blank">https://www.foreignaffairs.com/age-forever-wars</a>.
+
+Ghanem, As’ad, und Mohanad Mustafa. 2011. “The Palestinians in Israel: The Challenge of the Indigenous Group Politics in the ‘Jewish State.’” <i>Journal of Muslim Minority Affairs</i> 31 (2): 177–96. <a href="https://israelresources.brandeis.edu/wp-content/uploads/2017/05/Ghanem-The-Palestinians-in-Israel.pdf" target="_blank">https://israelresources.brandeis.edu/wp-content/uploads/2017/05/Ghanem-The-Palestinians-in-Israel.pdf</a>.
+
+Hovering, Roald. 2018. “Gaza: The World’s Largest Open-Air Prison.” <i>Norwegian Refugee Council (NRC)</i>. <a href="https://www.nrc.no/news/2018/april/gaza-the-worlds-largest-open-air-prison/" target="_blank">https://www.nrc.no/news/2018/april/gaza-the-worlds-largest-open-air-prison/</a>.
+
+ICJ (International Court of Justice). 2024. <i>Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel)</i>. <a href="https://www.icj-cij.org/sites/default/files/case-related/192/192-20241008-int-01-00-en.pdf" target="_blank">https://www.icj-cij.org/sites/default/files/case-related/192/192-20241008-int-01-00-en.pdf</a>.
+
+Darraj, Faisal. o. J. "The Palestinian Short Story. » In : Interactive Encyclopedia of the Palestine Question. <a href="https://www.palquest.org/en/highlight/10518/palestinian-short-story" target="_blank">https://www.palquest.org/en/highlight/10518/palestinian-short-story</a>
+
+Irfan, Anne. 2023. “Why Palestinians Are Known as the World’s Best-Educated Refugees.” <i>Columbia University Press Blog</i>, August 23. <a href="https://cupblog.org/2023/08/23/why-palestinians-are-known-as-the-worlds-best-educated-refugeesanne-irfan/" target="_blank">https://cupblog.org/2023/08/23/why-palestinians-are-known-as-the-worlds-best-educated-refugeesanne-irfan/</a>.
+
+JPPI (The Jewish People Policy Institute). 2025. “Majority of Israelis Support Trump’s Proposal to Relocate Gaza’s Population to Other Countries.” March 2nd, 2025. <a href="https://jppi.org.il/en/%D7%A1%D7%A7%D7%A8-%D7%94%D7%97%D7%91%D7%A8%D7%94-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA-%D7%9C%D7%97%D7%95%D7%93%D7%A9-%D7%A4%D7%91%D7%A8%D7%95%D7%90%D7%A8-%D7%A8%D7%95%D7%91-%D7%92%D7%93/" target="_blank">https://jppi.org.il/en/%D7%A1%D7%A7%D7%A8-%D7%94%D7%97%D7%91%D7%A8%D7%94-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA-%D7%9C%D7%97%D7%95%D7%93%D7%A9-%D7%A4%D7%91%D7%A8%D7%95%D7%90%D7%A8-%D7%A8%D7%95%D7%91-%D7%92%D7%93/</a>
+
+Jewish Virtual Library (JVL). o. J. “Immigration to Israel: The First Aliyah (1882-1903)”. <a href="https://jewishvirtuallibrary.org/the-first-aliyah-1882-1903" target="_blank">https://jewishvirtuallibrary.org/the-first-aliyah-1882-1903</a>.
+
+Joudah, Ahmad Hasan. 2014. <i>Revolt in Palestine in the Eighteenth Century: The Era of Shaykh Zahir al-‘Umar</i>. Piscataway, NJ: Gorgias Press. Excerpt in <i>Jerusalem Quarterly</i> 63–64: 72–86. <a href="https://www.palestine-studies.org/sites/default/files/jq-articles/JQ_63_Zahir_al-Umar_0.pdf" target="_blank">https://www.palestine-studies.org/sites/default/files/jq-articles/JQ_63_Zahir_al-Umar_0.pdf</a>.
+
+Kaim, Markus. 2015. “Israels Sicherheit als deutsche Staatsräson: Was bedeutet das konkret?” in: <i>Aus Politik und Zeitgeschichte</i>, 65(2015), Nr. 6, S. 8 – 13.
+
+Khalidi, Rashid. 2020. <i>The Hundred Years’ War on Palestine: A History of Settler Colonialism and Resistance, 1917–2017</i>. London: Profile Books.
+
+Masalha, Nur. 2020. <i>Palestine: A 4000-Year History</i>. London: Zed.
+
+Mitova, V. 2022. “The Collective Epistemic Reasons of Social-Identity Groups.” <i>Asian Journal of Philosophy</i> 1 (47). <a href="https://doi.org/10.1007/s44204-022-00051-" target="_blank">https://doi.org/10.1007/s44204-022-00051-</a>.
+
+Moaswes, Abdulla. 2024. “The Epistemicide of the Palestinians: Israel Destroys Pillars of Knowledge.” <i>Institute for Palestine Studies</i>, February 2, 2024. <a href="https://www.palestine-studies.org/en/node/1655161" target="_blank">https://www.palestine-studies.org/en/node/1655161</a>.
+
+Muthukrishna, Michael, und Joseph Henrich. 2016. “Innovation in the Collective Brain.” <i>Philosophical Transactions of the Royal Society of London. Series B. Biological Sciences</i> (England) 371 (1690): 20150192. <a href="https://doi.org/10.1098/rstb.2015.0192" target="_blank">https://doi.org/10.1098/rstb.2015.0192</a>.
+
+Palestine Land Society. o. J. Database For Palestinian Villages in 2000 Years. A comprehensive database for depopulated palestinian villages in 20 centuries: (The 21st, 20th, 19th, 15th and 4th). <a href="https://www.plands.org/en/villages-database" target="_blank">https://www.plands.org/en/villages-database</a>
+
+Pappé, Ilan. 2006. <i>The Ethnic Cleansing of Palestine</i>. Paperback ed., repr. Oxford: Oneworld.
+
+ReliefWeb. 2024. “Ecocide: Israel’s Deliberate and Systematic Environmental Destruction in Gaza.” October. <a href="https://reliefweb.int/report/occupied-palestinian-territory/ecocide-israels-deliberate-and-systematic-environmental-destruction-gaza" target="_blank">https://reliefweb.int/report/occupied-palestinian-territory/ecocide-israels-deliberate-and-systematic-environmental-destruction-gaza</a>.
+
+———. 2025. “Israel’s Targeting and Disabling of Gaza Hospitals: Dismantling Life and Destroying ‘Last Refuges.’” May 14. <a href="https://reliefweb.int/report/occupied-palestinian-territory/israels-targeting-and-disabling-gaza-hospitals-dismantling-life-and-destroying-last-refuges-enar" target="_blank">https://reliefweb.int/report/occupied-palestinian-territory/israels-targeting-and-disabling-gaza-hospitals-dismantling-life-and-destroying-last-refuges-enar</a>.
+
+Rouleau, Eric. 1985. “The Palestinian Diaspora of the Gulf.” <i>Middle East Report</i> 132 (May–June). <a href="https://merip.org/1985/05/the-palestinian-diaspora-of-the-gulf/" target="_blank">https://merip.org/1985/05/the-palestinian-diaspora-of-the-gulf/</a>.
+
+Safi, Khaled M. 2008. “Territorial Awareness in the 1834 Palestinian Revolt.” In <i>Temps et Espaces en Palestine</i>, 43–54. Beirut: Presses de l’Ifpo. <a href="https://doi.org/10.4000/books.ifpo.483" target="_blank">https://doi.org/10.4000/books.ifpo.483</a>.
+
+Schulz, Helena Lindholm, und Juliane Hammer. 2003. <i>The Palestinian Diaspora: Formation of Identities and Politics of Homeland</i>. London: Routledge.
+
+Schweikard, David P., und Hans Bernhard Schmid. 2021. "Collective Intentionality." In The Stanford Encyclopedia of Philosophy, Fall 2021 edition, edited by Edward N. Zalta. <a href="https://plato.stanford.edu/archives/fall2021/entries/collective-intentionality/" target="_blank">https://plato.stanford.edu/archives/fall2021/entries/collective-intentionality/</a>.
+
+Shat, Fouad J. F., Amin Mousavi, und Elias Pimenidis. 2014. "Electronic Government Enactment in a Small Developing Country: The Palestinian Authority's Policy and Practice." In E-Democracy, Security, Privacy and Trust in a Digital World: e-Democracy 2013, edited by Alexander Sideridis, Zoe Kardasiadou, Constantine Yialouris, and Vassilios Zorkadis, 82-93. Communications in Computer and Information Science, vol. 441. Cham: Springer. <a href="https://doi.org/10.1007/978-3-319-11710-2_8" target="_blank">https://doi.org/10.1007/978-3-319-11710-2_8</a>.
+
+Shibib, Khaled. 2024. “Epistemes of Palestine: Knowledge Systems of a Centurial Struggle.” <i>Contemporary Arab Affairs</i>, 17(1), 1–31. <a href="https://doi.org/10.1163/17550920-bja00032" target="_blank">https://doi.org/10.1163/17550920-bja00032</a>
+
+Shibib, Khaled. 2021. “From Higher Education in Historic Palestine towards a Pan-Palestinian Higher Education.” <i>Contemporary Arab Affairs</i> 14 (3): 21–54. <a href="https://doi.org/10.1525/caa.2021.14.3.21" target="_blank">https://doi.org/10.1525/caa.2021.14.3.21</a>.
+
+Shiblak, Abbas. 2005. Reflections On The palestinian Diaspora in Europe. In: <i>The Palestinian Diaspora in Europe: Challenges of Dual Identity and Adaptation</i>. Refugee and Diaspora Studies, no. 2. Oxford: Refugee Studies Centre. <a href="https://www.rsc.ox.ac.uk/files/files-1/palestinian-diaspora-europe-2005.pdf" target="_blank">https://www.rsc.ox.ac.uk/files/files-1/palestinian-diaspora-europe-2005.pdf</a>.
+
+Sullivan, Becky. 2024. “What Is ‘Domicide,’ and Why Has War in Gaza Brought New Attention to the Term?” <i>NPR News</i>, February 9, 2024. <a href="https://www.npr.org/2024/02/09/1229625376/domicide-israel-gaza-palestinians" target="_blank">https://www.npr.org/2024/02/09/1229625376/domicide-israel-gaza-palestinians</a>.
+
+The Jerusalem Post. 2025. “Less than 15% of Israelis Believe Trump’s Plan Is ‘Immoral.’” February 3, 2025. <a href="https://www.jpost.com/international/article-840500" target="_blank">https://www.jpost.com/international/article-840500</a>.
+
+The Knesset. 2018. <i>Basic Law: Israel – The Nation-State of the Jewish People.</i> <a href="https://main.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf" target="_blank">https://main.knesset.gov.il/EN/activity/documents/BasicLawsPDF/BasicLawNationState.pdf</a>.
+
+The New Arab. 2024. "US Senator Lindsey Graham Suggests Gaza Should Be Nuked." May 13, 2024. <a href="https://www.newarab.com/news/us-senator-lindsey-graham-suggests-gaza-should-be-nuked" target="_blank">https://www.newarab.com/news/us-senator-lindsey-graham-suggests-gaza-should-be-nuked</a>.
+
+The Times of Israel. 2023. "Far-Right Minister Says Nuking Gaza an Option, PM Suspends Him from Cabinet Meetings." November 5, 2023. <a href="https://www.timesofisrael.com/far-right-minister-says-nuking-gaza-an-option-pm-suspends-him-from-cabinet-meetings/" target="_blank">https://www.timesofisrael.com/far-right-minister-says-nuking-gaza-an-option-pm-suspends-him-from-cabinet-meetings/</a>.
+
+The Wire. 2023. "Chart: 6,407 Palestinians and 308 Israelis Killed in Violence in Last 15 Years." October 9, 2023. <a href="https://m.thewire.in/article/world/chart-6407-palestinians-and-308-israelis-killed-in-violence-in-last-15-years" target="_blank">https://m.thewire.in/article/world/chart-6407-palestinians-and-308-israelis-killed-in-violence-in-last-15-years</a>.
+
+United Nations. 2015. World Population Prospects. <a href="https://population.un.org/wpp/assets/Files/WPP2015_DataBooklet.pdf" target="_blank">https://population.un.org/wpp/assets/Files/WPP2015_DataBooklet.pdf</a>
+
+UNCTAD. 2024. “Gaza: Unprecedented Destruction Will Take Tens of Billions of Dollars and Decades to Reverse.” <i>United Nations Conference on Trade and Development</i>, January. <a href="https://www.un.org/unispal/document/unctad-report-gaza-destruction-31jan-2024/" target="_blank">https://www.un.org/unispal/document/unctad-report-gaza-destruction-31jan-2024/</a>.
+
+UNRWA. 2022. "Gaza: 15 Years of Blockade." <a href="https://www.unrwa.org/gaza15-years-blockade" target="_blank">https://www.unrwa.org/gaza15-years-blockade</a>.
+
+Youvan, Douglas C. 2024. “A Comparative Analysis of the Explosive Impact on Gaza and Historical Bombings: Lessons from Hiroshima, Nagasaki, and Dresden.” <a href="https://doi.org/10.13140/RG.2.2.32452.23681" target="_blank">https://doi.org/10.13140/RG.2.2.32452.23681</a>.
+
+</div>
+
+<h2 class="subtitle">ENDNOTEN</h2>
+
+<div class="endnotes">
+
+<ul>
+
+<li id="fn1" class="fussnote"><a href="#fn1back">i</a>&emsp;Eine 1949 gegründete syrische Regierungsbehörde, die unter der Schirmherrschaft des Ministeriums für Soziales und Arbeit für die Registrierung und Betreuung palästinensischer Flüchtlinge in Syrien zuständig ist und eng mit der UNRWA zusammenarbeitet.</li>
+
+</ul>
+
+</div>
